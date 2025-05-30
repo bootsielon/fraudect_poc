@@ -1,0 +1,368 @@
+{
+  "step": "numeric_conversion",
+  "timestamp": "2025-05-15T22:08:50.943788+00:00",
+  "config": {
+    "c1": 5,
+    "c2": 0.2,
+    "b1": true,
+    "c3": 1.5,
+    "id_like_exempt": true,
+    "central_tendency": "median"
+  },
+  "output_dir": "artifacts\\run_deadbeefcaf0\\numeric_conversion",
+  "train_dir": "artifacts\\run_deadbeefcaf0\\numeric_conversion",
+  "artifacts": {
+    "train_num_csv": "artifacts\\run_deadbeefcaf0\\numeric_conversion\\train_num.csv",
+    "excluded_num_csv": "artifacts\\run_deadbeefcaf0\\numeric_conversion\\excluded_num.csv",
+    "val_num_csv": "artifacts\\run_deadbeefcaf0\\numeric_conversion\\val_num.csv",
+    "test_num_csv": "artifacts\\run_deadbeefcaf0\\numeric_conversion\\test_num.csv",
+    "grouping_map_json": "artifacts\\run_deadbeefcaf0\\numeric_conversion\\grouping_map.json",
+    "imputation_stats_json": "artifacts\\run_deadbeefcaf0\\numeric_conversion\\imputation_stats.json",
+    "metadata_json": "artifacts\\run_deadbeefcaf0\\numeric_conversion\\metadata.json",
+    "final_columns_json": "artifacts\\run_deadbeefcaf0\\numeric_conversion\\final_columns.json"
+  },
+  "transformations": {
+    "grouping_map": {
+      "mid_card_cat": {
+        "strategy": "top_c1+other",
+        "top_categories": [
+          "Cat_14",
+          "Cat_5",
+          "Cat_4",
+          "Cat_16",
+          "Cat_1"
+        ]
+      },
+      "high_card_cat": {
+        "strategy": "high_as_mid",
+        "top_categories": [
+          "ID_103",
+          "ID_62",
+          "ID_37",
+          "ID_4",
+          "ID_129"
+        ]
+      },
+      "id_like_col": {
+        "strategy": "high_as_mid",
+        "top_categories": [
+          "U00000",
+          "U00001",
+          "U00002",
+          "U00003",
+          "U00004"
+        ]
+      }
+    },
+    "imputation_stats": {
+      "id": {
+        "strategy": "median",
+        "value": 100.5
+      },
+      "numeric_col": {
+        "strategy": "median",
+        "value": -0.004191884047736516
+      },
+      "integer_col": {
+        "strategy": "median",
+        "value": 50.0
+      },
+      "missing_values_col": {
+        "strategy": "median",
+        "value": 2.0
+      },
+      "target": {
+        "strategy": "median",
+        "value": 0.0
+      },
+      "low_card_cat": {
+        "strategy": "mode",
+        "value": "A"
+      },
+      "mid_card_cat": {
+        "strategy": "mode",
+        "value": "Other"
+      },
+      "high_card_cat": {
+        "strategy": "mode",
+        "value": "Other"
+      },
+      "id_like_col": {
+        "strategy": "mode",
+        "value": "Other"
+      }
+    },
+    "cardinality_threshold": 5,
+    "rare_category_fraction": 0.2,
+    "high_as_mid": true,
+    "id_like_log_ratio_threshold": 1.5,
+    "id_like_exempt": true
+  },
+  "metadata": {
+    "dropped_columns": [],
+    "id_like_columns": [],
+    "encoded_columns": [
+      "id",
+      "numeric_col",
+      "integer_col",
+      "missing_values_col",
+      "target",
+      "low_card_cat_is_NA",
+      "mid_card_cat_is_NA",
+      "high_card_cat_is_NA",
+      "id_like_col_is_NA",
+      "low_card_cat_A",
+      "low_card_cat_B",
+      "low_card_cat_C",
+      "mid_card_cat_Cat_1",
+      "mid_card_cat_Cat_14",
+      "mid_card_cat_Cat_16",
+      "mid_card_cat_Cat_4",
+      "mid_card_cat_Cat_5",
+      "mid_card_cat_Other",
+      "high_card_cat_ID_103",
+      "high_card_cat_ID_129",
+      "high_card_cat_ID_37",
+      "high_card_cat_ID_4",
+      "high_card_cat_ID_62",
+      "high_card_cat_Other",
+      "id_like_col_Other",
+      "id_like_col_U00000",
+      "id_like_col_U00001",
+      "id_like_col_U00002",
+      "id_like_col_U00003",
+      "id_like_col_U00004"
+    ],
+    "constant_columns": [],
+    "original_columns": [
+      "id",
+      "numeric_col",
+      "integer_col",
+      "low_card_cat",
+      "mid_card_cat",
+      "high_card_cat",
+      "id_like_col",
+      "missing_values_col",
+      "target"
+    ],
+    "final_columns": [
+      "id",
+      "numeric_col",
+      "integer_col",
+      "missing_values_col",
+      "target",
+      "low_card_cat_is_NA",
+      "mid_card_cat_is_NA",
+      "high_card_cat_is_NA",
+      "id_like_col_is_NA",
+      "low_card_cat_A",
+      "low_card_cat_B",
+      "low_card_cat_C",
+      "mid_card_cat_Cat_1",
+      "mid_card_cat_Cat_14",
+      "mid_card_cat_Cat_16",
+      "mid_card_cat_Cat_4",
+      "mid_card_cat_Cat_5",
+      "mid_card_cat_Other",
+      "high_card_cat_ID_103",
+      "high_card_cat_ID_129",
+      "high_card_cat_ID_37",
+      "high_card_cat_ID_4",
+      "high_card_cat_ID_62",
+      "high_card_cat_Other",
+      "id_like_col_Other",
+      "id_like_col_U00000",
+      "id_like_col_U00001",
+      "id_like_col_U00002",
+      "id_like_col_U00003",
+      "id_like_col_U00004"
+    ],
+    "grouping_map": {
+      "mid_card_cat": {
+        "strategy": "top_c1+other",
+        "top_categories": [
+          "Cat_14",
+          "Cat_5",
+          "Cat_4",
+          "Cat_16",
+          "Cat_1"
+        ]
+      },
+      "high_card_cat": {
+        "strategy": "high_as_mid",
+        "top_categories": [
+          "ID_103",
+          "ID_62",
+          "ID_37",
+          "ID_4",
+          "ID_129"
+        ]
+      },
+      "id_like_col": {
+        "strategy": "high_as_mid",
+        "top_categories": [
+          "U00000",
+          "U00001",
+          "U00002",
+          "U00003",
+          "U00004"
+        ]
+      }
+    },
+    "imputation_stats": {
+      "id": {
+        "strategy": "median",
+        "value": 100.5
+      },
+      "numeric_col": {
+        "strategy": "median",
+        "value": -0.004191884047736516
+      },
+      "integer_col": {
+        "strategy": "median",
+        "value": 50.0
+      },
+      "missing_values_col": {
+        "strategy": "median",
+        "value": 2.0
+      },
+      "target": {
+        "strategy": "median",
+        "value": 0.0
+      },
+      "low_card_cat": {
+        "strategy": "mode",
+        "value": "A"
+      },
+      "mid_card_cat": {
+        "strategy": "mode",
+        "value": "Other"
+      },
+      "high_card_cat": {
+        "strategy": "mode",
+        "value": "Other"
+      },
+      "id_like_col": {
+        "strategy": "mode",
+        "value": "Other"
+      }
+    },
+    "cardinality_threshold": 5,
+    "rare_category_fraction": 0.2,
+    "high_as_mid": true,
+    "id_like_log_ratio_threshold": 1.5,
+    "id_like_exempt": true
+  },
+  "columns": {
+    "dropped_columns": [],
+    "id_like_columns": [],
+    "encoded_columns": [
+      "id",
+      "numeric_col",
+      "integer_col",
+      "missing_values_col",
+      "target",
+      "low_card_cat_is_NA",
+      "mid_card_cat_is_NA",
+      "high_card_cat_is_NA",
+      "id_like_col_is_NA",
+      "low_card_cat_A",
+      "low_card_cat_B",
+      "low_card_cat_C",
+      "mid_card_cat_Cat_1",
+      "mid_card_cat_Cat_14",
+      "mid_card_cat_Cat_16",
+      "mid_card_cat_Cat_4",
+      "mid_card_cat_Cat_5",
+      "mid_card_cat_Other",
+      "high_card_cat_ID_103",
+      "high_card_cat_ID_129",
+      "high_card_cat_ID_37",
+      "high_card_cat_ID_4",
+      "high_card_cat_ID_62",
+      "high_card_cat_Other",
+      "id_like_col_Other",
+      "id_like_col_U00000",
+      "id_like_col_U00001",
+      "id_like_col_U00002",
+      "id_like_col_U00003",
+      "id_like_col_U00004"
+    ],
+    "constant_columns": [],
+    "original_columns": [
+      "id",
+      "numeric_col",
+      "integer_col",
+      "low_card_cat",
+      "mid_card_cat",
+      "high_card_cat",
+      "id_like_col",
+      "missing_values_col",
+      "target"
+    ],
+    "final_columns": [
+      "id",
+      "numeric_col",
+      "integer_col",
+      "missing_values_col",
+      "target",
+      "low_card_cat_is_NA",
+      "mid_card_cat_is_NA",
+      "high_card_cat_is_NA",
+      "id_like_col_is_NA",
+      "low_card_cat_A",
+      "low_card_cat_B",
+      "low_card_cat_C",
+      "mid_card_cat_Cat_1",
+      "mid_card_cat_Cat_14",
+      "mid_card_cat_Cat_16",
+      "mid_card_cat_Cat_4",
+      "mid_card_cat_Cat_5",
+      "mid_card_cat_Other",
+      "high_card_cat_ID_103",
+      "high_card_cat_ID_129",
+      "high_card_cat_ID_37",
+      "high_card_cat_ID_4",
+      "high_card_cat_ID_62",
+      "high_card_cat_Other",
+      "id_like_col_Other",
+      "id_like_col_U00000",
+      "id_like_col_U00001",
+      "id_like_col_U00002",
+      "id_like_col_U00003",
+      "id_like_col_U00004"
+    ],
+    "grouping_map": {
+      "mid_card_cat": {
+        "strategy": "top_c1+other",
+        "top_categories": [
+          "Cat_14",
+          "Cat_5",
+          "Cat_4",
+          "Cat_16",
+          "Cat_1"
+        ]
+      },
+      "high_card_cat": {
+        "strategy": "high_as_mid",
+        "top_categories": [
+          "ID_103",
+          "ID_62",
+          "ID_37",
+          "ID_4",
+          "ID_129"
+        ]
+      },
+      "id_like_col": {
+        "strategy": "high_as_mid",
+        "top_categories": [
+          "U00000",
+          "U00001",
+          "U00002",
+          "U00003",
+          "U00004"
+        ]
+      }
+    }
+  }
+}

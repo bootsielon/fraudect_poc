@@ -1,0 +1,32 @@
+{
+  "mid_card_cat": {
+    "strategy": "top_c1+other",
+    "top_categories": [
+      "Cat_14",
+      "Cat_5",
+      "Cat_4",
+      "Cat_16",
+      "Cat_1"
+    ]
+  },
+  "high_card_cat": {
+    "strategy": "high_as_mid",
+    "top_categories": [
+      "ID_103",
+      "ID_62",
+      "ID_37",
+      "ID_4",
+      "ID_129"
+    ]
+  },
+  "id_like_col": {
+    "strategy": "high_as_mid",
+    "top_categories": [
+      "U00000",
+      "U00001",
+      "U00002",
+      "U00003",
+      "U00004"
+    ]
+  }
+}

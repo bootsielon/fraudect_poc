@@ -1,0 +1,59 @@
+{
+  "step": "partitioning",
+  "param_hash": "83b22750399f",
+  "timestamp": "2025-05-30T05:24:50.541047+00:00",
+  "config": {
+    "cleanup_artifacts": false,
+    "data_source": "csv",
+    "load_data": true,
+    "load_data_path": "data/kagglebankfraud/Base.csv",
+    "csv_path": "data/kagglebankfraud/Base.csv",
+    "seed": 400,
+    "target_col": "fraud_bool",
+    "id_col": "account_id",
+    "use_mlflow": true,
+    "train_size": 0.7,
+    "test_size": 0.2,
+    "val_size": 0.1,
+    "use_stratification": false,
+    "use_downsampling": true,
+    "stratify_cardinality_threshold": 5,
+    "c1": 10,
+    "c2": 0.01,
+    "b1": true,
+    "c3": 5,
+    "s1": false,
+    "t1": false,
+    "shap_cutoff": 0.99999,
+    "use_cluster_select": [
+      true,
+      false
+    ],
+    "save_fs_mods": false,
+    "k_folds": 5,
+    "opt_metric": "f1",
+    "minimize_metric": false,
+    "baseline_hyperparams": {
+      "n_estimators": 320,
+      "max_depth": 4,
+      "learning_rate": 0.1,
+      "subsample": 0.5,
+      "colsample_bytree": 0.5,
+      "use_label_encoder": false,
+      "eval_metric": "logloss"
+    },
+    "train_mode": true,
+    "global_hash": "83b22750399f",
+    "global_train_hash": "83b22750399f"
+  },
+  "output_dir": "artifacts\\run_83b22750399f\\partitioning",
+  "training_mode": true,
+  "outputs": {
+    "test_csv": "test.csv",
+    "train_csv": "train.csv",
+    "val_csv": "val.csv",
+    "excluded_majority_csv": "excluded_majority.csv",
+    "id_partition_map_json": "id_partition_map.json",
+    "stratify_keys_csv": "stratify_keys.csv"
+  }
+}

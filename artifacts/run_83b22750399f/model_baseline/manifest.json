@@ -1,0 +1,39 @@
+{
+  "step": "model_baseline",
+  "param_hash": "83b22750399f",
+  "timestamp": "2025-05-30T05:25:51.775805+00:00",
+  "config": {
+    "n_estimators": null,
+    "max_depth": null,
+    "learning_rate": null,
+    "subsample": null,
+    "colsample_bytree": null,
+    "random_state": null
+  },
+  "output_dir": "artifacts\\run_83b22750399f\\model_baseline",
+  "artifacts": {
+    "model_file": "model.json",
+    "metrics_file": "metrics.json",
+    "feature_names_file": "feature_names.json",
+    "feature_importance_png": "feature_importance.png",
+    "roc_curve_png": "roc_curve.png"
+  },
+  "metrics": {
+    "test": {
+      "accuracy": 0.7966908431550317,
+      "roc_auc": 0.878580751909611
+    },
+    "train": {
+      "accuracy": 0.8139248704663212,
+      "roc_auc": 0.8971108620365649
+    },
+    "val": {
+      "accuracy": 0.8105167724388033,
+      "roc_auc": 0.8900057454777994
+    },
+    "excluded": {
+      "accuracy": 0.8147139605416273,
+      "roc_auc": 0.5
+    }
+  }
+}

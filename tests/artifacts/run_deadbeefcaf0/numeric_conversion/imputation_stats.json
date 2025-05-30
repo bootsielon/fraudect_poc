@@ -1,0 +1,38 @@
+{
+  "id": {
+    "strategy": "median",
+    "value": 100.5
+  },
+  "numeric_col": {
+    "strategy": "median",
+    "value": -0.004191884047736516
+  },
+  "integer_col": {
+    "strategy": "median",
+    "value": 50.0
+  },
+  "missing_values_col": {
+    "strategy": "median",
+    "value": 2.0
+  },
+  "target": {
+    "strategy": "median",
+    "value": 0.0
+  },
+  "low_card_cat": {
+    "strategy": "mode",
+    "value": "A"
+  },
+  "mid_card_cat": {
+    "strategy": "mode",
+    "value": "Other"
+  },
+  "high_card_cat": {
+    "strategy": "mode",
+    "value": "Other"
+  },
+  "id_like_col": {
+    "strategy": "mode",
+    "value": "Other"
+  }
+}

@@ -1,0 +1,91 @@
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+venv_name/
+mlruns/
+__pycache__/
+__pycache__
+artifacts_old/
+# Ignore only CSV files inside artifacts/
+artifacts/**/*.csv
+
+*.egg-info/
+downloads/
+inputs/
+outputs/
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.zip
+# *.txt
+*.csv
+*.tsv
+# *.json
+# *.yaml
+# *.yml
+*.xml
+*.xls
+*.xlsx
+*.parquet
+*.feather
+*.hdf5
+*.h5
+*.db
+*.sqlite
+*.pkl
+*.joblib
+*.npy
+*.npz
+*.docx
+*.pdf
+*.vtt
+*.srt
+
+# Multimedia
+*.mp3
+*.wav
+*.ogg
+*.flac
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.webm
+*.mkv
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+*.tiff
+*.bmp
+
+# Logs
+*.log
+*.out
+*.err
+
+# System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# Editor folders
+.vscode/
+.idea/

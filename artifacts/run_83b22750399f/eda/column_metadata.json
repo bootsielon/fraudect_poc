@@ -1,0 +1,167 @@
+{
+  "account_id": {
+    "dtype": "object",
+    "cardinality": 1000000,
+    "nulls": 0
+  },
+  "fraud_bool": {
+    "dtype": "int64",
+    "cardinality": 2,
+    "nulls": 0
+  },
+  "income": {
+    "dtype": "float64",
+    "cardinality": 9,
+    "nulls": 0
+  },
+  "name_email_similarity": {
+    "dtype": "float64",
+    "cardinality": 998861,
+    "nulls": 0
+  },
+  "prev_address_months_count": {
+    "dtype": "int64",
+    "cardinality": 374,
+    "nulls": 0
+  },
+  "current_address_months_count": {
+    "dtype": "int64",
+    "cardinality": 423,
+    "nulls": 0
+  },
+  "customer_age": {
+    "dtype": "int64",
+    "cardinality": 9,
+    "nulls": 0
+  },
+  "days_since_request": {
+    "dtype": "float64",
+    "cardinality": 989330,
+    "nulls": 0
+  },
+  "intended_balcon_amount": {
+    "dtype": "float64",
+    "cardinality": 994971,
+    "nulls": 0
+  },
+  "payment_type": {
+    "dtype": "object",
+    "cardinality": 5,
+    "nulls": 0
+  },
+  "zip_count_4w": {
+    "dtype": "int64",
+    "cardinality": 6306,
+    "nulls": 0
+  },
+  "velocity_6h": {
+    "dtype": "float64",
+    "cardinality": 998687,
+    "nulls": 0
+  },
+  "velocity_24h": {
+    "dtype": "float64",
+    "cardinality": 998940,
+    "nulls": 0
+  },
+  "velocity_4w": {
+    "dtype": "float64",
+    "cardinality": 998318,
+    "nulls": 0
+  },
+  "bank_branch_count_8w": {
+    "dtype": "int64",
+    "cardinality": 2326,
+    "nulls": 0
+  },
+  "date_of_birth_distinct_emails_4w": {
+    "dtype": "int64",
+    "cardinality": 40,
+    "nulls": 0
+  },
+  "employment_status": {
+    "dtype": "object",
+    "cardinality": 7,
+    "nulls": 0
+  },
+  "credit_risk_score": {
+    "dtype": "int64",
+    "cardinality": 551,
+    "nulls": 0
+  },
+  "email_is_free": {
+    "dtype": "int64",
+    "cardinality": 2,
+    "nulls": 0
+  },
+  "housing_status": {
+    "dtype": "object",
+    "cardinality": 7,
+    "nulls": 0
+  },
+  "phone_home_valid": {
+    "dtype": "int64",
+    "cardinality": 2,
+    "nulls": 0
+  },
+  "phone_mobile_valid": {
+    "dtype": "int64",
+    "cardinality": 2,
+    "nulls": 0
+  },
+  "bank_months_count": {
+    "dtype": "int64",
+    "cardinality": 33,
+    "nulls": 0
+  },
+  "has_other_cards": {
+    "dtype": "int64",
+    "cardinality": 2,
+    "nulls": 0
+  },
+  "proposed_credit_limit": {
+    "dtype": "float64",
+    "cardinality": 12,
+    "nulls": 0
+  },
+  "foreign_request": {
+    "dtype": "int64",
+    "cardinality": 2,
+    "nulls": 0
+  },
+  "source": {
+    "dtype": "object",
+    "cardinality": 2,
+    "nulls": 0
+  },
+  "session_length_in_minutes": {
+    "dtype": "float64",
+    "cardinality": 994887,
+    "nulls": 0
+  },
+  "device_os": {
+    "dtype": "object",
+    "cardinality": 5,
+    "nulls": 0
+  },
+  "keep_alive_session": {
+    "dtype": "int64",
+    "cardinality": 2,
+    "nulls": 0
+  },
+  "device_distinct_emails_8w": {
+    "dtype": "int64",
+    "cardinality": 4,
+    "nulls": 0
+  },
+  "device_fraud_count": {
+    "dtype": "int64",
+    "cardinality": 1,
+    "nulls": 0
+  },
+  "month": {
+    "dtype": "int64",
+    "cardinality": 8,
+    "nulls": 0
+  }
+}

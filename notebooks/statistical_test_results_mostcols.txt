@@ -1,0 +1,4320 @@
+
+
+
+
+device_os in Base.csv and Variant I.csv similar (KS Test nan)
+device_os in Base.csv and Variant I.csv similar (T-Test nan)
+device_os in Base.csv and Variant I.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+device_os in Base.csv and Variant II.csv similar (KS Test nan)
+device_os in Base.csv and Variant II.csv similar (T-Test nan)
+device_os in Base.csv and Variant II.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+device_os in Base.csv and Variant III.csv similar (KS Test nan)
+device_os in Base.csv and Variant III.csv similar (T-Test nan)
+device_os in Base.csv and Variant III.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+device_os in Base.csv and Variant IV.csv similar (KS Test nan)
+device_os in Base.csv and Variant IV.csv similar (T-Test nan)
+device_os in Base.csv and Variant IV.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+device_os in Base.csv and Variant V.csv similar (KS Test nan)
+device_os in Base.csv and Variant V.csv similar (T-Test nan)
+device_os in Base.csv and Variant V.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+device_os in Variant I.csv and Variant II.csv similar (KS Test nan)
+device_os in Variant I.csv and Variant II.csv similar (T-Test nan)
+device_os in Variant I.csv and Variant II.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+device_os in Variant I.csv and Variant III.csv similar (KS Test nan)
+device_os in Variant I.csv and Variant III.csv similar (T-Test nan)
+device_os in Variant I.csv and Variant III.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+device_os in Variant I.csv and Variant IV.csv similar (KS Test nan)
+device_os in Variant I.csv and Variant IV.csv similar (T-Test nan)
+device_os in Variant I.csv and Variant IV.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+device_os in Variant I.csv and Variant V.csv similar (KS Test nan)
+device_os in Variant I.csv and Variant V.csv similar (T-Test nan)
+device_os in Variant I.csv and Variant V.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+device_os in Variant II.csv and Variant III.csv similar (KS Test nan)
+device_os in Variant II.csv and Variant III.csv similar (T-Test nan)
+device_os in Variant II.csv and Variant III.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+device_os in Variant II.csv and Variant IV.csv similar (KS Test nan)
+device_os in Variant II.csv and Variant IV.csv similar (T-Test nan)
+device_os in Variant II.csv and Variant IV.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+device_os in Variant II.csv and Variant V.csv similar (KS Test nan)
+device_os in Variant II.csv and Variant V.csv similar (T-Test nan)
+device_os in Variant II.csv and Variant V.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+device_os in Variant III.csv and Variant IV.csv similar (KS Test nan)
+device_os in Variant III.csv and Variant IV.csv similar (T-Test nan)
+device_os in Variant III.csv and Variant IV.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+device_os in Variant III.csv and Variant V.csv similar (KS Test nan)
+device_os in Variant III.csv and Variant V.csv similar (T-Test nan)
+device_os in Variant III.csv and Variant V.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+device_os in Variant IV.csv and Variant V.csv similar (KS Test nan)
+device_os in Variant IV.csv and Variant V.csv similar (T-Test nan)
+device_os in Variant IV.csv and Variant V.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+current_address_months_count in Base.csv and Variant I.csv similar (KS Test 0.98010878010878)
+current_address_months_count in Base.csv and Variant I.csv similar (T-Test 0.9999928216911671)
+current_address_months_count in Base.csv and Variant I.csv similar (Mann-Whitney U Test 0.7925972289255464)
+
+
+
+
+
+
+current_address_months_count in Base.csv and Variant II.csv similar (KS Test 0.98010878010878)
+current_address_months_count in Base.csv and Variant II.csv similar (T-Test 0.9999651105549077)
+current_address_months_count in Base.csv and Variant II.csv similar (Mann-Whitney U Test 0.7127872877960982)
+
+
+
+
+
+
+current_address_months_count in Base.csv and Variant III.csv similar (KS Test 0.98010878010878)
+current_address_months_count in Base.csv and Variant III.csv similar (T-Test 0.9999649073673447)
+current_address_months_count in Base.csv and Variant III.csv similar (Mann-Whitney U Test 0.7127872877960982)
+
+
+
+
+
+
+current_address_months_count in Base.csv and Variant IV.csv similar (KS Test 0.98010878010878)
+current_address_months_count in Base.csv and Variant IV.csv similar (T-Test 0.9999649136232842)
+current_address_months_count in Base.csv and Variant IV.csv similar (Mann-Whitney U Test 0.7127872877960982)
+
+
+
+
+
+
+current_address_months_count in Base.csv and Variant V.csv similar (KS Test 0.98010878010878)
+current_address_months_count in Base.csv and Variant V.csv similar (T-Test 0.999966597448304)
+current_address_months_count in Base.csv and Variant V.csv similar (Mann-Whitney U Test 0.7925972289255464)
+
+
+
+
+
+
+current_address_months_count in Variant I.csv and Variant II.csv similar (KS Test 0.98010878010878)
+current_address_months_count in Variant I.csv and Variant II.csv similar (T-Test 0.999957932246092)
+current_address_months_count in Variant I.csv and Variant II.csv similar (Mann-Whitney U Test 0.7521844391485517)
+
+
+
+
+
+
+current_address_months_count in Variant I.csv and Variant III.csv similar (KS Test 0.98010878010878)
+current_address_months_count in Variant I.csv and Variant III.csv similar (T-Test 0.9999577290585288)
+current_address_months_count in Variant I.csv and Variant III.csv similar (Mann-Whitney U Test 0.7521844391485517)
+
+
+
+
+
+
+current_address_months_count in Variant I.csv and Variant IV.csv similar (KS Test 0.98010878010878)
+current_address_months_count in Variant I.csv and Variant IV.csv similar (T-Test 0.9999577353144684)
+current_address_months_count in Variant I.csv and Variant IV.csv similar (Mann-Whitney U Test 0.7521844391485517)
+
+
+
+
+
+
+current_address_months_count in Variant I.csv and Variant V.csv similar (KS Test 0.98010878010878)
+current_address_months_count in Variant I.csv and Variant V.csv similar (T-Test 0.9999594191394829)
+current_address_months_count in Variant I.csv and Variant V.csv similar (Mann-Whitney U Test 0.7925972289255464)
+
+
+
+
+
+
+current_address_months_count in Variant II.csv and Variant III.csv similar (KS Test 1.0)
+current_address_months_count in Variant II.csv and Variant III.csv similar (T-Test 0.9999997968124381)
+current_address_months_count in Variant II.csv and Variant III.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+current_address_months_count in Variant II.csv and Variant IV.csv similar (KS Test 1.0)
+current_address_months_count in Variant II.csv and Variant IV.csv similar (T-Test 0.9999998030683778)
+current_address_months_count in Variant II.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+current_address_months_count in Variant II.csv and Variant V.csv similar (KS Test 1.0)
+current_address_months_count in Variant II.csv and Variant V.csv similar (T-Test 0.9999985131065816)
+current_address_months_count in Variant II.csv and Variant V.csv similar (Mann-Whitney U Test 0.95799832386793)
+
+
+
+
+
+
+current_address_months_count in Variant III.csv and Variant IV.csv similar (KS Test 1.0)
+current_address_months_count in Variant III.csv and Variant IV.csv similar (T-Test 0.9999999937440605)
+current_address_months_count in Variant III.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+current_address_months_count in Variant III.csv and Variant V.csv similar (KS Test 1.0)
+current_address_months_count in Variant III.csv and Variant V.csv similar (T-Test 0.9999983099190195)
+current_address_months_count in Variant III.csv and Variant V.csv similar (Mann-Whitney U Test 0.9160510722818964)
+
+
+
+
+
+
+current_address_months_count in Variant IV.csv and Variant V.csv similar (KS Test 1.0)
+current_address_months_count in Variant IV.csv and Variant V.csv similar (T-Test 0.9999983161749592)
+current_address_months_count in Variant IV.csv and Variant V.csv similar (Mann-Whitney U Test 0.9160510722818964)
+
+
+
+
+
+
+name_email_similarity in Base.csv and Variant I.csv similar (KS Test 1.0)
+name_email_similarity in Base.csv and Variant I.csv similar (T-Test 0.9999999985327167)
+name_email_similarity in Base.csv and Variant I.csv similar (Mann-Whitney U Test 0.9162977979978499)
+
+
+
+
+
+
+name_email_similarity in Base.csv and Variant II.csv similar (KS Test 0.98010878010878)
+name_email_similarity in Base.csv and Variant II.csv similar (T-Test 0.9999999906932949)
+name_email_similarity in Base.csv and Variant II.csv similar (Mann-Whitney U Test 0.8335142129533152)
+
+
+
+
+
+
+name_email_similarity in Base.csv and Variant III.csv similar (KS Test 0.98010878010878)
+name_email_similarity in Base.csv and Variant III.csv similar (T-Test 0.9999999879086653)
+name_email_similarity in Base.csv and Variant III.csv similar (Mann-Whitney U Test 0.8335142129533152)
+
+
+
+
+
+
+name_email_similarity in Base.csv and Variant IV.csv similar (KS Test 0.98010878010878)
+name_email_similarity in Base.csv and Variant IV.csv similar (T-Test 0.9999999879810977)
+name_email_similarity in Base.csv and Variant IV.csv similar (Mann-Whitney U Test 0.8335142129533152)
+
+
+
+
+
+
+name_email_similarity in Base.csv and Variant V.csv similar (KS Test 0.98010878010878)
+name_email_similarity in Base.csv and Variant V.csv similar (T-Test 0.9999999878582737)
+name_email_similarity in Base.csv and Variant V.csv similar (Mann-Whitney U Test 0.8335142129533152)
+
+
+
+
+
+
+name_email_similarity in Variant I.csv and Variant II.csv similar (KS Test 0.98010878010878)
+name_email_similarity in Variant I.csv and Variant II.csv similar (T-Test 0.9999999892260116)
+name_email_similarity in Variant I.csv and Variant II.csv similar (Mann-Whitney U Test 0.8332720830457769)
+
+
+
+
+
+
+name_email_similarity in Variant I.csv and Variant III.csv similar (KS Test 0.98010878010878)
+name_email_similarity in Variant I.csv and Variant III.csv similar (T-Test 0.999999986441382)
+name_email_similarity in Variant I.csv and Variant III.csv similar (Mann-Whitney U Test 0.8332720830457769)
+
+
+
+
+
+
+name_email_similarity in Variant I.csv and Variant IV.csv similar (KS Test 0.98010878010878)
+name_email_similarity in Variant I.csv and Variant IV.csv similar (T-Test 0.9999999865138145)
+name_email_similarity in Variant I.csv and Variant IV.csv similar (Mann-Whitney U Test 0.8332720830457769)
+
+
+
+
+
+
+name_email_similarity in Variant I.csv and Variant V.csv similar (KS Test 0.98010878010878)
+name_email_similarity in Variant I.csv and Variant V.csv similar (T-Test 0.9999999863909903)
+name_email_similarity in Variant I.csv and Variant V.csv similar (Mann-Whitney U Test 0.8335142129533152)
+
+
+
+
+
+
+name_email_similarity in Variant II.csv and Variant III.csv similar (KS Test 0.98010878010878)
+name_email_similarity in Variant II.csv and Variant III.csv similar (T-Test 0.9999999972153704)
+name_email_similarity in Variant II.csv and Variant III.csv similar (Mann-Whitney U Test 0.9161747074605952)
+
+
+
+
+
+
+name_email_similarity in Variant II.csv and Variant IV.csv similar (KS Test 0.98010878010878)
+name_email_similarity in Variant II.csv and Variant IV.csv similar (T-Test 0.9999999972878028)
+name_email_similarity in Variant II.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9161747074605952)
+
+
+
+
+
+
+name_email_similarity in Variant II.csv and Variant V.csv similar (KS Test 0.98010878010878)
+name_email_similarity in Variant II.csv and Variant V.csv similar (T-Test 0.9999999971649787)
+name_email_similarity in Variant II.csv and Variant V.csv similar (Mann-Whitney U Test 0.8335142129533152)
+
+
+
+
+
+
+name_email_similarity in Variant III.csv and Variant IV.csv similar (KS Test 1.0)
+name_email_similarity in Variant III.csv and Variant IV.csv similar (T-Test 0.9999999999275675)
+name_email_similarity in Variant III.csv and Variant IV.csv similar (Mann-Whitney U Test 0.8332720830457769)
+
+
+
+
+
+
+name_email_similarity in Variant III.csv and Variant V.csv similar (KS Test 1.0)
+name_email_similarity in Variant III.csv and Variant V.csv similar (T-Test 0.9999999999496083)
+name_email_similarity in Variant III.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+name_email_similarity in Variant IV.csv and Variant V.csv similar (KS Test 1.0)
+name_email_similarity in Variant IV.csv and Variant V.csv similar (T-Test 0.999999999877176)
+name_email_similarity in Variant IV.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+payment_type in Base.csv and Variant I.csv similar (KS Test nan)
+payment_type in Base.csv and Variant I.csv similar (T-Test nan)
+payment_type in Base.csv and Variant I.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+payment_type in Base.csv and Variant II.csv similar (KS Test nan)
+payment_type in Base.csv and Variant II.csv similar (T-Test nan)
+payment_type in Base.csv and Variant II.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+payment_type in Base.csv and Variant III.csv similar (KS Test nan)
+payment_type in Base.csv and Variant III.csv similar (T-Test nan)
+payment_type in Base.csv and Variant III.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+payment_type in Base.csv and Variant IV.csv similar (KS Test nan)
+payment_type in Base.csv and Variant IV.csv similar (T-Test nan)
+payment_type in Base.csv and Variant IV.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+payment_type in Base.csv and Variant V.csv similar (KS Test nan)
+payment_type in Base.csv and Variant V.csv similar (T-Test nan)
+payment_type in Base.csv and Variant V.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+payment_type in Variant I.csv and Variant II.csv similar (KS Test nan)
+payment_type in Variant I.csv and Variant II.csv similar (T-Test nan)
+payment_type in Variant I.csv and Variant II.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+payment_type in Variant I.csv and Variant III.csv similar (KS Test nan)
+payment_type in Variant I.csv and Variant III.csv similar (T-Test nan)
+payment_type in Variant I.csv and Variant III.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+payment_type in Variant I.csv and Variant IV.csv similar (KS Test nan)
+payment_type in Variant I.csv and Variant IV.csv similar (T-Test nan)
+payment_type in Variant I.csv and Variant IV.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+payment_type in Variant I.csv and Variant V.csv similar (KS Test nan)
+payment_type in Variant I.csv and Variant V.csv similar (T-Test nan)
+payment_type in Variant I.csv and Variant V.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+payment_type in Variant II.csv and Variant III.csv similar (KS Test nan)
+payment_type in Variant II.csv and Variant III.csv similar (T-Test nan)
+payment_type in Variant II.csv and Variant III.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+payment_type in Variant II.csv and Variant IV.csv similar (KS Test nan)
+payment_type in Variant II.csv and Variant IV.csv similar (T-Test nan)
+payment_type in Variant II.csv and Variant IV.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+payment_type in Variant II.csv and Variant V.csv similar (KS Test nan)
+payment_type in Variant II.csv and Variant V.csv similar (T-Test nan)
+payment_type in Variant II.csv and Variant V.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+payment_type in Variant III.csv and Variant IV.csv similar (KS Test nan)
+payment_type in Variant III.csv and Variant IV.csv similar (T-Test nan)
+payment_type in Variant III.csv and Variant IV.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+payment_type in Variant III.csv and Variant V.csv similar (KS Test nan)
+payment_type in Variant III.csv and Variant V.csv similar (T-Test nan)
+payment_type in Variant III.csv and Variant V.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+payment_type in Variant IV.csv and Variant V.csv similar (KS Test nan)
+payment_type in Variant IV.csv and Variant V.csv similar (T-Test nan)
+payment_type in Variant IV.csv and Variant V.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+days_since_request in Base.csv and Variant I.csv similar (KS Test 1.0)
+days_since_request in Base.csv and Variant I.csv similar (T-Test 0.999999049042304)
+days_since_request in Base.csv and Variant I.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+days_since_request in Base.csv and Variant II.csv similar (KS Test 1.0)
+days_since_request in Base.csv and Variant II.csv similar (T-Test 0.9999986771608871)
+days_since_request in Base.csv and Variant II.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+days_since_request in Base.csv and Variant III.csv similar (KS Test 1.0)
+days_since_request in Base.csv and Variant III.csv similar (T-Test 0.9999986866063231)
+days_since_request in Base.csv and Variant III.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+days_since_request in Base.csv and Variant IV.csv similar (KS Test 1.0)
+days_since_request in Base.csv and Variant IV.csv similar (T-Test 0.9999986839424366)
+days_since_request in Base.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+days_since_request in Base.csv and Variant V.csv similar (KS Test 1.0)
+days_since_request in Base.csv and Variant V.csv similar (T-Test 0.9999994280280353)
+days_since_request in Base.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+days_since_request in Variant I.csv and Variant II.csv similar (KS Test 1.0)
+days_since_request in Variant I.csv and Variant II.csv similar (T-Test 0.9999996281185831)
+days_since_request in Variant I.csv and Variant II.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+days_since_request in Variant I.csv and Variant III.csv similar (KS Test 1.0)
+days_since_request in Variant I.csv and Variant III.csv similar (T-Test 0.9999996375640191)
+days_since_request in Variant I.csv and Variant III.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+days_since_request in Variant I.csv and Variant IV.csv similar (KS Test 1.0)
+days_since_request in Variant I.csv and Variant IV.csv similar (T-Test 0.9999996349001326)
+days_since_request in Variant I.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+days_since_request in Variant I.csv and Variant V.csv similar (KS Test 1.0)
+days_since_request in Variant I.csv and Variant V.csv similar (T-Test 0.9999996210142686)
+days_since_request in Variant I.csv and Variant V.csv similar (Mann-Whitney U Test 0.9162977979978499)
+
+
+
+
+
+
+days_since_request in Variant II.csv and Variant III.csv similar (KS Test 1.0)
+days_since_request in Variant II.csv and Variant III.csv similar (T-Test 0.999999990554564)
+days_since_request in Variant II.csv and Variant III.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+days_since_request in Variant II.csv and Variant IV.csv similar (KS Test 1.0)
+days_since_request in Variant II.csv and Variant IV.csv similar (T-Test 0.9999999932184505)
+days_since_request in Variant II.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+days_since_request in Variant II.csv and Variant V.csv similar (KS Test 1.0)
+days_since_request in Variant II.csv and Variant V.csv similar (T-Test 0.9999992491328518)
+days_since_request in Variant II.csv and Variant V.csv similar (Mann-Whitney U Test 0.7525377274994569)
+
+
+
+
+
+
+days_since_request in Variant III.csv and Variant IV.csv similar (KS Test 1.0)
+days_since_request in Variant III.csv and Variant IV.csv similar (T-Test 0.9999999973361136)
+days_since_request in Variant III.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9161747074605952)
+
+
+
+
+
+
+days_since_request in Variant III.csv and Variant V.csv similar (KS Test 1.0)
+days_since_request in Variant III.csv and Variant V.csv similar (T-Test 0.9999992585782878)
+days_since_request in Variant III.csv and Variant V.csv similar (Mann-Whitney U Test 0.7525377274994569)
+
+
+
+
+
+
+days_since_request in Variant IV.csv and Variant V.csv similar (KS Test 1.0)
+days_since_request in Variant IV.csv and Variant V.csv similar (T-Test 0.9999992559144013)
+days_since_request in Variant IV.csv and Variant V.csv similar (Mann-Whitney U Test 0.7525377274994569)
+
+
+
+
+
+
+velocity_6h in Base.csv and Variant I.csv similar (KS Test 1.0)
+velocity_6h in Base.csv and Variant I.csv similar (T-Test 0.9999534530175288)
+velocity_6h in Base.csv and Variant I.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+velocity_6h in Base.csv and Variant II.csv similar (KS Test 1.0)
+velocity_6h in Base.csv and Variant II.csv similar (T-Test 0.9998939668811637)
+velocity_6h in Base.csv and Variant II.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+velocity_6h in Base.csv and Variant III.csv similar (KS Test 1.0)
+velocity_6h in Base.csv and Variant III.csv similar (T-Test 0.9995781492001614)
+velocity_6h in Base.csv and Variant III.csv similar (Mann-Whitney U Test 0.8335142129533152)
+
+
+
+
+
+
+velocity_6h in Base.csv and Variant IV.csv similar (KS Test 1.0)
+velocity_6h in Base.csv and Variant IV.csv similar (T-Test 0.9995780549763019)
+velocity_6h in Base.csv and Variant IV.csv similar (Mann-Whitney U Test 0.8335142129533152)
+
+
+
+
+
+
+velocity_6h in Base.csv and Variant V.csv similar (KS Test 1.0)
+velocity_6h in Base.csv and Variant V.csv similar (T-Test 0.9996255276664717)
+velocity_6h in Base.csv and Variant V.csv similar (Mann-Whitney U Test 0.9162977979978499)
+
+
+
+
+
+
+velocity_6h in Variant I.csv and Variant II.csv similar (KS Test 1.0)
+velocity_6h in Variant I.csv and Variant II.csv similar (T-Test 0.9999405139140668)
+velocity_6h in Variant I.csv and Variant II.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+velocity_6h in Variant I.csv and Variant III.csv similar (KS Test 1.0)
+velocity_6h in Variant I.csv and Variant III.csv similar (T-Test 0.999531602525821)
+velocity_6h in Variant I.csv and Variant III.csv similar (Mann-Whitney U Test 0.7925972289255464)
+
+
+
+
+
+
+velocity_6h in Variant I.csv and Variant IV.csv similar (KS Test 1.0)
+velocity_6h in Variant I.csv and Variant IV.csv similar (T-Test 0.999531508302006)
+velocity_6h in Variant I.csv and Variant IV.csv similar (Mann-Whitney U Test 0.7925972289255464)
+
+
+
+
+
+
+velocity_6h in Variant I.csv and Variant V.csv similar (KS Test 1.0)
+velocity_6h in Variant I.csv and Variant V.csv similar (T-Test 0.9995789809675188)
+velocity_6h in Variant I.csv and Variant V.csv similar (Mann-Whitney U Test 0.8335142129533152)
+
+
+
+
+
+
+velocity_6h in Variant II.csv and Variant III.csv similar (KS Test 1.0)
+velocity_6h in Variant II.csv and Variant III.csv similar (T-Test 0.9994721163262481)
+velocity_6h in Variant II.csv and Variant III.csv similar (Mann-Whitney U Test 0.7925972289255464)
+
+
+
+
+
+
+velocity_6h in Variant II.csv and Variant IV.csv similar (KS Test 1.0)
+velocity_6h in Variant II.csv and Variant IV.csv similar (T-Test 0.9994720221023881)
+velocity_6h in Variant II.csv and Variant IV.csv similar (Mann-Whitney U Test 0.7925972289255464)
+
+
+
+
+
+
+velocity_6h in Variant II.csv and Variant V.csv similar (KS Test 1.0)
+velocity_6h in Variant II.csv and Variant V.csv similar (T-Test 0.999519494787813)
+velocity_6h in Variant II.csv and Variant V.csv similar (Mann-Whitney U Test 0.9162977979978499)
+
+
+
+
+
+
+velocity_6h in Variant III.csv and Variant IV.csv similar (KS Test 1.0)
+velocity_6h in Variant III.csv and Variant IV.csv similar (T-Test 0.9999999057763607)
+velocity_6h in Variant III.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+velocity_6h in Variant III.csv and Variant V.csv similar (KS Test 1.0)
+velocity_6h in Variant III.csv and Variant V.csv similar (T-Test 0.9999526216242257)
+velocity_6h in Variant III.csv and Variant V.csv similar (Mann-Whitney U Test 0.9162977979978499)
+
+
+
+
+
+
+velocity_6h in Variant IV.csv and Variant V.csv similar (KS Test 1.0)
+velocity_6h in Variant IV.csv and Variant V.csv similar (T-Test 0.9999525274005818)
+velocity_6h in Variant IV.csv and Variant V.csv similar (Mann-Whitney U Test 0.9162977979978499)
+
+
+
+
+
+
+has_other_cards in Base.csv and Variant I.csv similar (KS Test 1.0)
+has_other_cards in Base.csv and Variant I.csv similar (T-Test 0.9999999955182102)
+has_other_cards in Base.csv and Variant I.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+has_other_cards in Base.csv and Variant II.csv similar (KS Test 1.0)
+has_other_cards in Base.csv and Variant II.csv similar (T-Test 0.9999999805737285)
+has_other_cards in Base.csv and Variant II.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+has_other_cards in Base.csv and Variant III.csv similar (KS Test 1.0)
+has_other_cards in Base.csv and Variant III.csv similar (T-Test 0.9999999764080708)
+has_other_cards in Base.csv and Variant III.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+has_other_cards in Base.csv and Variant IV.csv similar (KS Test 1.0)
+has_other_cards in Base.csv and Variant IV.csv similar (T-Test 0.9999999765096395)
+has_other_cards in Base.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+has_other_cards in Base.csv and Variant V.csv similar (KS Test 1.0)
+has_other_cards in Base.csv and Variant V.csv similar (T-Test 0.9999999766874403)
+has_other_cards in Base.csv and Variant V.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+has_other_cards in Variant I.csv and Variant II.csv similar (KS Test 1.0)
+has_other_cards in Variant I.csv and Variant II.csv similar (T-Test 0.9999999760919387)
+has_other_cards in Variant I.csv and Variant II.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+has_other_cards in Variant I.csv and Variant III.csv similar (KS Test 1.0)
+has_other_cards in Variant I.csv and Variant III.csv similar (T-Test 0.9999999719262809)
+has_other_cards in Variant I.csv and Variant III.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+has_other_cards in Variant I.csv and Variant IV.csv similar (KS Test 1.0)
+has_other_cards in Variant I.csv and Variant IV.csv similar (T-Test 0.9999999720278496)
+has_other_cards in Variant I.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+has_other_cards in Variant I.csv and Variant V.csv similar (KS Test 1.0)
+has_other_cards in Variant I.csv and Variant V.csv similar (T-Test 0.9999999722056504)
+has_other_cards in Variant I.csv and Variant V.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+has_other_cards in Variant II.csv and Variant III.csv similar (KS Test 1.0)
+has_other_cards in Variant II.csv and Variant III.csv similar (T-Test 0.9999999958343422)
+has_other_cards in Variant II.csv and Variant III.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+has_other_cards in Variant II.csv and Variant IV.csv similar (KS Test 1.0)
+has_other_cards in Variant II.csv and Variant IV.csv similar (T-Test 0.9999999959359109)
+has_other_cards in Variant II.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+has_other_cards in Variant II.csv and Variant V.csv similar (KS Test 1.0)
+has_other_cards in Variant II.csv and Variant V.csv similar (T-Test 0.9999999961137118)
+has_other_cards in Variant II.csv and Variant V.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+has_other_cards in Variant III.csv and Variant IV.csv similar (KS Test 1.0)
+has_other_cards in Variant III.csv and Variant IV.csv similar (T-Test 0.9999999998984312)
+has_other_cards in Variant III.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+has_other_cards in Variant III.csv and Variant V.csv similar (KS Test 1.0)
+has_other_cards in Variant III.csv and Variant V.csv similar (T-Test 0.9999999997206305)
+has_other_cards in Variant III.csv and Variant V.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+has_other_cards in Variant IV.csv and Variant V.csv similar (KS Test 1.0)
+has_other_cards in Variant IV.csv and Variant V.csv similar (T-Test 0.9999999998221992)
+has_other_cards in Variant IV.csv and Variant V.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+device_distinct_emails_8w in Base.csv and Variant I.csv similar (KS Test 1.0)
+device_distinct_emails_8w in Base.csv and Variant I.csv similar (T-Test 0.9999999962757169)
+device_distinct_emails_8w in Base.csv and Variant I.csv similar (Mann-Whitney U Test 0.9569015325339879)
+
+
+
+
+
+
+device_distinct_emails_8w in Base.csv and Variant II.csv similar (KS Test 1.0)
+device_distinct_emails_8w in Base.csv and Variant II.csv similar (T-Test 0.9999999877992698)
+device_distinct_emails_8w in Base.csv and Variant II.csv similar (Mann-Whitney U Test 0.9569015325339879)
+
+
+
+
+
+
+device_distinct_emails_8w in Base.csv and Variant III.csv similar (KS Test 1.0)
+device_distinct_emails_8w in Base.csv and Variant III.csv similar (T-Test 0.9999999918851483)
+device_distinct_emails_8w in Base.csv and Variant III.csv similar (Mann-Whitney U Test 0.9569015325339879)
+
+
+
+
+
+
+device_distinct_emails_8w in Base.csv and Variant IV.csv similar (KS Test 1.0)
+device_distinct_emails_8w in Base.csv and Variant IV.csv similar (T-Test 0.9999999917467814)
+device_distinct_emails_8w in Base.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9569015325339879)
+
+
+
+
+
+
+device_distinct_emails_8w in Base.csv and Variant V.csv similar (KS Test 1.0)
+device_distinct_emails_8w in Base.csv and Variant V.csv similar (T-Test 0.9999999910967255)
+device_distinct_emails_8w in Base.csv and Variant V.csv similar (Mann-Whitney U Test 0.9569015325339879)
+
+
+
+
+
+
+device_distinct_emails_8w in Variant I.csv and Variant II.csv similar (KS Test 1.0)
+device_distinct_emails_8w in Variant I.csv and Variant II.csv similar (T-Test 0.9999999840749867)
+device_distinct_emails_8w in Variant I.csv and Variant II.csv similar (Mann-Whitney U Test 0.9569015325339879)
+
+
+
+
+
+
+device_distinct_emails_8w in Variant I.csv and Variant III.csv similar (KS Test 1.0)
+device_distinct_emails_8w in Variant I.csv and Variant III.csv similar (T-Test 0.9999999881608652)
+device_distinct_emails_8w in Variant I.csv and Variant III.csv similar (Mann-Whitney U Test 0.9569015325339879)
+
+
+
+
+
+
+device_distinct_emails_8w in Variant I.csv and Variant IV.csv similar (KS Test 1.0)
+device_distinct_emails_8w in Variant I.csv and Variant IV.csv similar (T-Test 0.9999999880224986)
+device_distinct_emails_8w in Variant I.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9569015325339879)
+
+
+
+
+
+
+device_distinct_emails_8w in Variant I.csv and Variant V.csv similar (KS Test 1.0)
+device_distinct_emails_8w in Variant I.csv and Variant V.csv similar (T-Test 0.9999999873724426)
+device_distinct_emails_8w in Variant I.csv and Variant V.csv similar (Mann-Whitney U Test 0.9569015325339879)
+
+
+
+
+
+
+device_distinct_emails_8w in Variant II.csv and Variant III.csv similar (KS Test 1.0)
+device_distinct_emails_8w in Variant II.csv and Variant III.csv similar (T-Test 0.9999999959141215)
+device_distinct_emails_8w in Variant II.csv and Variant III.csv similar (Mann-Whitney U Test 0.9569015325339879)
+
+
+
+
+
+
+device_distinct_emails_8w in Variant II.csv and Variant IV.csv similar (KS Test 1.0)
+device_distinct_emails_8w in Variant II.csv and Variant IV.csv similar (T-Test 0.9999999960524881)
+device_distinct_emails_8w in Variant II.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9569015325339879)
+
+
+
+
+
+
+device_distinct_emails_8w in Variant II.csv and Variant V.csv similar (KS Test 1.0)
+device_distinct_emails_8w in Variant II.csv and Variant V.csv similar (T-Test 0.9999999967025441)
+device_distinct_emails_8w in Variant II.csv and Variant V.csv similar (Mann-Whitney U Test 0.9569015325339879)
+
+
+
+
+
+
+device_distinct_emails_8w in Variant III.csv and Variant IV.csv similar (KS Test 1.0)
+device_distinct_emails_8w in Variant III.csv and Variant IV.csv similar (T-Test 0.9999999998616331)
+device_distinct_emails_8w in Variant III.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9569015325339879)
+
+
+
+
+
+
+device_distinct_emails_8w in Variant III.csv and Variant V.csv similar (KS Test 1.0)
+device_distinct_emails_8w in Variant III.csv and Variant V.csv similar (T-Test 0.9999999992115772)
+device_distinct_emails_8w in Variant III.csv and Variant V.csv similar (Mann-Whitney U Test 0.9569015325339879)
+
+
+
+
+
+
+device_distinct_emails_8w in Variant IV.csv and Variant V.csv similar (KS Test 1.0)
+device_distinct_emails_8w in Variant IV.csv and Variant V.csv similar (T-Test 0.999999999349944)
+device_distinct_emails_8w in Variant IV.csv and Variant V.csv similar (Mann-Whitney U Test 0.9569015325339879)
+
+
+
+
+
+
+source in Base.csv and Variant I.csv similar (KS Test nan)
+source in Base.csv and Variant I.csv similar (T-Test nan)
+source in Base.csv and Variant I.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+source in Base.csv and Variant II.csv similar (KS Test nan)
+source in Base.csv and Variant II.csv similar (T-Test nan)
+source in Base.csv and Variant II.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+source in Base.csv and Variant III.csv similar (KS Test nan)
+source in Base.csv and Variant III.csv similar (T-Test nan)
+source in Base.csv and Variant III.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+source in Base.csv and Variant IV.csv similar (KS Test nan)
+source in Base.csv and Variant IV.csv similar (T-Test nan)
+source in Base.csv and Variant IV.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+source in Base.csv and Variant V.csv similar (KS Test nan)
+source in Base.csv and Variant V.csv similar (T-Test nan)
+source in Base.csv and Variant V.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+source in Variant I.csv and Variant II.csv similar (KS Test nan)
+source in Variant I.csv and Variant II.csv similar (T-Test nan)
+source in Variant I.csv and Variant II.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+source in Variant I.csv and Variant III.csv similar (KS Test nan)
+source in Variant I.csv and Variant III.csv similar (T-Test nan)
+source in Variant I.csv and Variant III.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+source in Variant I.csv and Variant IV.csv similar (KS Test nan)
+source in Variant I.csv and Variant IV.csv similar (T-Test nan)
+source in Variant I.csv and Variant IV.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+source in Variant I.csv and Variant V.csv similar (KS Test nan)
+source in Variant I.csv and Variant V.csv similar (T-Test nan)
+source in Variant I.csv and Variant V.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+source in Variant II.csv and Variant III.csv similar (KS Test nan)
+source in Variant II.csv and Variant III.csv similar (T-Test nan)
+source in Variant II.csv and Variant III.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+source in Variant II.csv and Variant IV.csv similar (KS Test nan)
+source in Variant II.csv and Variant IV.csv similar (T-Test nan)
+source in Variant II.csv and Variant IV.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+source in Variant II.csv and Variant V.csv similar (KS Test nan)
+source in Variant II.csv and Variant V.csv similar (T-Test nan)
+source in Variant II.csv and Variant V.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+source in Variant III.csv and Variant IV.csv similar (KS Test nan)
+source in Variant III.csv and Variant IV.csv similar (T-Test nan)
+source in Variant III.csv and Variant IV.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+source in Variant III.csv and Variant V.csv similar (KS Test nan)
+source in Variant III.csv and Variant V.csv similar (T-Test nan)
+source in Variant III.csv and Variant V.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+source in Variant IV.csv and Variant V.csv similar (KS Test nan)
+source in Variant IV.csv and Variant V.csv similar (T-Test nan)
+source in Variant IV.csv and Variant V.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+income in Base.csv and Variant I.csv similar (KS Test 1.0)
+income in Base.csv and Variant I.csv similar (T-Test 0.999999999011962)
+income in Base.csv and Variant I.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+income in Base.csv and Variant II.csv similar (KS Test 1.0)
+income in Base.csv and Variant II.csv similar (T-Test 0.9999999943061613)
+income in Base.csv and Variant II.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+income in Base.csv and Variant III.csv similar (KS Test 1.0)
+income in Base.csv and Variant III.csv similar (T-Test 0.9999999922414673)
+income in Base.csv and Variant III.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+income in Base.csv and Variant IV.csv similar (KS Test 1.0)
+income in Base.csv and Variant IV.csv similar (T-Test 0.9999999922687568)
+income in Base.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+income in Base.csv and Variant V.csv similar (KS Test 1.0)
+income in Base.csv and Variant V.csv similar (T-Test 0.99999999216031)
+income in Base.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+income in Variant I.csv and Variant II.csv similar (KS Test 1.0)
+income in Variant I.csv and Variant II.csv similar (T-Test 0.9999999933181232)
+income in Variant I.csv and Variant II.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+income in Variant I.csv and Variant III.csv similar (KS Test 1.0)
+income in Variant I.csv and Variant III.csv similar (T-Test 0.9999999912534292)
+income in Variant I.csv and Variant III.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+income in Variant I.csv and Variant IV.csv similar (KS Test 1.0)
+income in Variant I.csv and Variant IV.csv similar (T-Test 0.9999999912807189)
+income in Variant I.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+income in Variant I.csv and Variant V.csv similar (KS Test 1.0)
+income in Variant I.csv and Variant V.csv similar (T-Test 0.9999999911722721)
+income in Variant I.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+income in Variant II.csv and Variant III.csv similar (KS Test 1.0)
+income in Variant II.csv and Variant III.csv similar (T-Test 0.999999997935306)
+income in Variant II.csv and Variant III.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+income in Variant II.csv and Variant IV.csv similar (KS Test 1.0)
+income in Variant II.csv and Variant IV.csv similar (T-Test 0.9999999979625956)
+income in Variant II.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+income in Variant II.csv and Variant V.csv similar (KS Test 1.0)
+income in Variant II.csv and Variant V.csv similar (T-Test 0.9999999978541488)
+income in Variant II.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+income in Variant III.csv and Variant IV.csv similar (KS Test 1.0)
+income in Variant III.csv and Variant IV.csv similar (T-Test 0.9999999999727104)
+income in Variant III.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+income in Variant III.csv and Variant V.csv similar (KS Test 1.0)
+income in Variant III.csv and Variant V.csv similar (T-Test 0.9999999999188428)
+income in Variant III.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+income in Variant IV.csv and Variant V.csv similar (KS Test 1.0)
+income in Variant IV.csv and Variant V.csv similar (T-Test 0.9999999998915532)
+income in Variant IV.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+bank_branch_count_8w in Base.csv and Variant I.csv similar (KS Test 1.0)
+bank_branch_count_8w in Base.csv and Variant I.csv similar (T-Test 0.9999971321400007)
+bank_branch_count_8w in Base.csv and Variant I.csv similar (Mann-Whitney U Test 0.95799832386793)
+
+
+
+
+
+
+bank_branch_count_8w in Base.csv and Variant II.csv similar (KS Test 1.0)
+bank_branch_count_8w in Base.csv and Variant II.csv similar (T-Test 0.9999819191696988)
+bank_branch_count_8w in Base.csv and Variant II.csv similar (Mann-Whitney U Test 0.9161747074605952)
+
+
+
+
+
+
+bank_branch_count_8w in Base.csv and Variant III.csv similar (KS Test 1.0)
+bank_branch_count_8w in Base.csv and Variant III.csv similar (T-Test 0.9999835051407664)
+bank_branch_count_8w in Base.csv and Variant III.csv similar (Mann-Whitney U Test 0.9161747074605952)
+
+
+
+
+
+
+bank_branch_count_8w in Base.csv and Variant IV.csv similar (KS Test 1.0)
+bank_branch_count_8w in Base.csv and Variant IV.csv similar (T-Test 0.9999836480549235)
+bank_branch_count_8w in Base.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9161747074605952)
+
+
+
+
+
+
+bank_branch_count_8w in Base.csv and Variant V.csv similar (KS Test 1.0)
+bank_branch_count_8w in Base.csv and Variant V.csv similar (T-Test 0.9999684870395779)
+bank_branch_count_8w in Base.csv and Variant V.csv similar (Mann-Whitney U Test 0.8332720830457769)
+
+
+
+
+
+
+bank_branch_count_8w in Variant I.csv and Variant II.csv similar (KS Test 1.0)
+bank_branch_count_8w in Variant I.csv and Variant II.csv similar (T-Test 0.9999790513096952)
+bank_branch_count_8w in Variant I.csv and Variant II.csv similar (Mann-Whitney U Test 0.9161747074605952)
+
+
+
+
+
+
+bank_branch_count_8w in Variant I.csv and Variant III.csv similar (KS Test 1.0)
+bank_branch_count_8w in Variant I.csv and Variant III.csv similar (T-Test 0.9999806372807609)
+bank_branch_count_8w in Variant I.csv and Variant III.csv similar (Mann-Whitney U Test 0.9161747074605952)
+
+
+
+
+
+
+bank_branch_count_8w in Variant I.csv and Variant IV.csv similar (KS Test 1.0)
+bank_branch_count_8w in Variant I.csv and Variant IV.csv similar (T-Test 0.9999807801949179)
+bank_branch_count_8w in Variant I.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9161747074605952)
+
+
+
+
+
+
+bank_branch_count_8w in Variant I.csv and Variant V.csv similar (KS Test 1.0)
+bank_branch_count_8w in Variant I.csv and Variant V.csv similar (T-Test 0.9999656191796875)
+bank_branch_count_8w in Variant I.csv and Variant V.csv similar (Mann-Whitney U Test 0.8332720830457769)
+
+
+
+
+
+
+bank_branch_count_8w in Variant II.csv and Variant III.csv similar (KS Test 1.0)
+bank_branch_count_8w in Variant II.csv and Variant III.csv similar (T-Test 0.9999984140289185)
+bank_branch_count_8w in Variant II.csv and Variant III.csv similar (Mann-Whitney U Test 0.9160510722818964)
+
+
+
+
+
+
+bank_branch_count_8w in Variant II.csv and Variant IV.csv similar (KS Test 1.0)
+bank_branch_count_8w in Variant II.csv and Variant IV.csv similar (T-Test 0.9999982711147598)
+bank_branch_count_8w in Variant II.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9160510722818964)
+
+
+
+
+
+
+bank_branch_count_8w in Variant II.csv and Variant V.csv similar (KS Test 1.0)
+bank_branch_count_8w in Variant II.csv and Variant V.csv similar (T-Test 0.9999865678691451)
+bank_branch_count_8w in Variant II.csv and Variant V.csv similar (Mann-Whitney U Test 0.95799832386793)
+
+
+
+
+
+
+bank_branch_count_8w in Variant III.csv and Variant IV.csv similar (KS Test 1.0)
+bank_branch_count_8w in Variant III.csv and Variant IV.csv similar (T-Test 0.9999998570858413)
+bank_branch_count_8w in Variant III.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9579361106814205)
+
+
+
+
+
+
+bank_branch_count_8w in Variant III.csv and Variant V.csv similar (KS Test 1.0)
+bank_branch_count_8w in Variant III.csv and Variant V.csv similar (T-Test 0.9999849818981177)
+bank_branch_count_8w in Variant III.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+bank_branch_count_8w in Variant IV.csv and Variant V.csv similar (KS Test 1.0)
+bank_branch_count_8w in Variant IV.csv and Variant V.csv similar (T-Test 0.9999848389839636)
+bank_branch_count_8w in Variant IV.csv and Variant V.csv similar (Mann-Whitney U Test 0.9160510722818964)
+
+
+
+
+
+
+proposed_credit_limit in Base.csv and Variant I.csv similar (KS Test 1.0)
+proposed_credit_limit in Base.csv and Variant I.csv similar (T-Test 0.9999917964062097)
+proposed_credit_limit in Base.csv and Variant I.csv similar (Mann-Whitney U Test 0.9576844644369863)
+
+
+
+
+
+
+proposed_credit_limit in Base.csv and Variant II.csv similar (KS Test 0.98010878010878)
+proposed_credit_limit in Base.csv and Variant II.csv similar (T-Test 0.9996843504525066)
+proposed_credit_limit in Base.csv and Variant II.csv similar (Mann-Whitney U Test 0.7503950268875255)
+
+
+
+
+
+
+proposed_credit_limit in Base.csv and Variant III.csv similar (KS Test 0.98010878010878)
+proposed_credit_limit in Base.csv and Variant III.csv similar (T-Test 0.9996922504612913)
+proposed_credit_limit in Base.csv and Variant III.csv similar (Mann-Whitney U Test 0.7503950268875255)
+
+
+
+
+
+
+proposed_credit_limit in Base.csv and Variant IV.csv similar (KS Test 0.98010878010878)
+proposed_credit_limit in Base.csv and Variant IV.csv similar (T-Test 0.9996921971036743)
+proposed_credit_limit in Base.csv and Variant IV.csv similar (Mann-Whitney U Test 0.7503950268875255)
+
+
+
+
+
+
+proposed_credit_limit in Base.csv and Variant V.csv similar (KS Test 0.98010878010878)
+proposed_credit_limit in Base.csv and Variant V.csv similar (T-Test 0.9996926837319657)
+proposed_credit_limit in Base.csv and Variant V.csv similar (Mann-Whitney U Test 0.7503950268875255)
+
+
+
+
+
+
+proposed_credit_limit in Variant I.csv and Variant II.csv similar (KS Test 0.6601398601398599)
+proposed_credit_limit in Variant I.csv and Variant II.csv similar (T-Test 0.9996761468599642)
+proposed_credit_limit in Variant I.csv and Variant II.csv similar (Mann-Whitney U Test 0.6714505578557903)
+
+
+
+
+
+
+proposed_credit_limit in Variant I.csv and Variant III.csv similar (KS Test 0.98010878010878)
+proposed_credit_limit in Variant I.csv and Variant III.csv similar (T-Test 0.9996840468687149)
+proposed_credit_limit in Variant I.csv and Variant III.csv similar (Mann-Whitney U Test 0.7503950268875255)
+
+
+
+
+
+
+proposed_credit_limit in Variant I.csv and Variant IV.csv similar (KS Test 0.98010878010878)
+proposed_credit_limit in Variant I.csv and Variant IV.csv similar (T-Test 0.9996839935110982)
+proposed_credit_limit in Variant I.csv and Variant IV.csv similar (Mann-Whitney U Test 0.7503950268875255)
+
+
+
+
+
+
+proposed_credit_limit in Variant I.csv and Variant V.csv similar (KS Test 0.98010878010878)
+proposed_credit_limit in Variant I.csv and Variant V.csv similar (T-Test 0.9996844801393874)
+proposed_credit_limit in Variant I.csv and Variant V.csv similar (Mann-Whitney U Test 0.7503950268875255)
+
+
+
+
+
+
+proposed_credit_limit in Variant II.csv and Variant III.csv similar (KS Test 1.0)
+proposed_credit_limit in Variant II.csv and Variant III.csv similar (T-Test 0.9999920999911047)
+proposed_credit_limit in Variant II.csv and Variant III.csv similar (Mann-Whitney U Test 0.9576844644369863)
+
+
+
+
+
+
+proposed_credit_limit in Variant II.csv and Variant IV.csv similar (KS Test 1.0)
+proposed_credit_limit in Variant II.csv and Variant IV.csv similar (T-Test 0.9999921533487223)
+proposed_credit_limit in Variant II.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9576844644369863)
+
+
+
+
+
+
+proposed_credit_limit in Variant II.csv and Variant V.csv similar (KS Test 1.0)
+proposed_credit_limit in Variant II.csv and Variant V.csv similar (T-Test 0.9999916667204236)
+proposed_credit_limit in Variant II.csv and Variant V.csv similar (Mann-Whitney U Test 0.9576844644369863)
+
+
+
+
+
+
+proposed_credit_limit in Variant III.csv and Variant IV.csv similar (KS Test 1.0)
+proposed_credit_limit in Variant III.csv and Variant IV.csv similar (T-Test 0.9999999466423825)
+proposed_credit_limit in Variant III.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9576844644369863)
+
+
+
+
+
+
+proposed_credit_limit in Variant III.csv and Variant V.csv similar (KS Test 1.0)
+proposed_credit_limit in Variant III.csv and Variant V.csv similar (T-Test 0.9999995667293189)
+proposed_credit_limit in Variant III.csv and Variant V.csv similar (Mann-Whitney U Test 0.9576844644369863)
+
+
+
+
+
+
+proposed_credit_limit in Variant IV.csv and Variant V.csv similar (KS Test 1.0)
+proposed_credit_limit in Variant IV.csv and Variant V.csv similar (T-Test 0.9999995133717013)
+proposed_credit_limit in Variant IV.csv and Variant V.csv similar (Mann-Whitney U Test 0.9576844644369863)
+
+
+
+
+
+
+phone_home_valid in Base.csv and Variant I.csv similar (KS Test 1.0)
+phone_home_valid in Base.csv and Variant I.csv similar (T-Test 0.9999999886196289)
+phone_home_valid in Base.csv and Variant I.csv similar (Mann-Whitney U Test 0.9566307365921487)
+
+
+
+
+
+
+phone_home_valid in Base.csv and Variant II.csv similar (KS Test 1.0)
+phone_home_valid in Base.csv and Variant II.csv similar (T-Test 0.9999999558901724)
+phone_home_valid in Base.csv and Variant II.csv similar (Mann-Whitney U Test 0.9566307365921487)
+
+
+
+
+
+
+phone_home_valid in Base.csv and Variant III.csv similar (KS Test 0.98010878010878)
+phone_home_valid in Base.csv and Variant III.csv similar (T-Test 0.9999999540498237)
+phone_home_valid in Base.csv and Variant III.csv similar (Mann-Whitney U Test 0.870403236238812)
+
+
+
+
+
+
+phone_home_valid in Base.csv and Variant IV.csv similar (KS Test 1.0)
+phone_home_valid in Base.csv and Variant IV.csv similar (T-Test 0.9999999542437278)
+phone_home_valid in Base.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9566307365921487)
+
+
+
+
+
+
+phone_home_valid in Base.csv and Variant V.csv similar (KS Test 0.98010878010878)
+phone_home_valid in Base.csv and Variant V.csv similar (T-Test 0.9999999536943951)
+phone_home_valid in Base.csv and Variant V.csv similar (Mann-Whitney U Test 0.870403236238812)
+
+
+
+
+
+
+phone_home_valid in Variant I.csv and Variant II.csv similar (KS Test 1.0)
+phone_home_valid in Variant I.csv and Variant II.csv similar (T-Test 0.9999999445098015)
+phone_home_valid in Variant I.csv and Variant II.csv similar (Mann-Whitney U Test 0.9566307365921487)
+
+
+
+
+
+
+phone_home_valid in Variant I.csv and Variant III.csv similar (KS Test 0.98010878010878)
+phone_home_valid in Variant I.csv and Variant III.csv similar (T-Test 0.9999999426694526)
+phone_home_valid in Variant I.csv and Variant III.csv similar (Mann-Whitney U Test 0.870403236238812)
+
+
+
+
+
+
+phone_home_valid in Variant I.csv and Variant IV.csv similar (KS Test 0.98010878010878)
+phone_home_valid in Variant I.csv and Variant IV.csv similar (T-Test 0.9999999428633567)
+phone_home_valid in Variant I.csv and Variant IV.csv similar (Mann-Whitney U Test 0.870403236238812)
+
+
+
+
+
+
+phone_home_valid in Variant I.csv and Variant V.csv similar (KS Test 0.98010878010878)
+phone_home_valid in Variant I.csv and Variant V.csv similar (T-Test 0.999999942314024)
+phone_home_valid in Variant I.csv and Variant V.csv similar (Mann-Whitney U Test 0.870403236238812)
+
+
+
+
+
+
+phone_home_valid in Variant II.csv and Variant III.csv similar (KS Test 1.0)
+phone_home_valid in Variant II.csv and Variant III.csv similar (T-Test 0.9999999981596512)
+phone_home_valid in Variant II.csv and Variant III.csv similar (Mann-Whitney U Test 0.9566307365921487)
+
+
+
+
+
+
+phone_home_valid in Variant II.csv and Variant IV.csv similar (KS Test 1.0)
+phone_home_valid in Variant II.csv and Variant IV.csv similar (T-Test 0.9999999983535552)
+phone_home_valid in Variant II.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9566307365921487)
+
+
+
+
+
+
+phone_home_valid in Variant II.csv and Variant V.csv similar (KS Test 1.0)
+phone_home_valid in Variant II.csv and Variant V.csv similar (T-Test 0.9999999978042227)
+phone_home_valid in Variant II.csv and Variant V.csv similar (Mann-Whitney U Test 0.9566307365921487)
+
+
+
+
+
+
+phone_home_valid in Variant III.csv and Variant IV.csv similar (KS Test 1.0)
+phone_home_valid in Variant III.csv and Variant IV.csv similar (T-Test 0.999999999806096)
+phone_home_valid in Variant III.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9566307365921487)
+
+
+
+
+
+
+phone_home_valid in Variant III.csv and Variant V.csv similar (KS Test 1.0)
+phone_home_valid in Variant III.csv and Variant V.csv similar (T-Test 0.9999999996445714)
+phone_home_valid in Variant III.csv and Variant V.csv similar (Mann-Whitney U Test 0.9566307365921487)
+
+
+
+
+
+
+phone_home_valid in Variant IV.csv and Variant V.csv similar (KS Test 1.0)
+phone_home_valid in Variant IV.csv and Variant V.csv similar (T-Test 0.9999999994506674)
+phone_home_valid in Variant IV.csv and Variant V.csv similar (Mann-Whitney U Test 0.9566307365921487)
+
+
+
+
+
+
+date_of_birth_distinct_emails_4w in Base.csv and Variant I.csv similar (KS Test 1.0)
+date_of_birth_distinct_emails_4w in Base.csv and Variant I.csv similar (T-Test 0.9999998179248426)
+date_of_birth_distinct_emails_4w in Base.csv and Variant I.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+date_of_birth_distinct_emails_4w in Base.csv and Variant II.csv similar (KS Test 0.98010878010878)
+date_of_birth_distinct_emails_4w in Base.csv and Variant II.csv similar (T-Test 0.9999957739257971)
+date_of_birth_distinct_emails_4w in Base.csv and Variant II.csv similar (Mann-Whitney U Test 0.6737450351078312)
+
+
+
+
+
+
+date_of_birth_distinct_emails_4w in Base.csv and Variant III.csv similar (KS Test 0.98010878010878)
+date_of_birth_distinct_emails_4w in Base.csv and Variant III.csv similar (T-Test 0.9999955964758634)
+date_of_birth_distinct_emails_4w in Base.csv and Variant III.csv similar (Mann-Whitney U Test 0.6737450351078312)
+
+
+
+
+
+
+date_of_birth_distinct_emails_4w in Base.csv and Variant IV.csv similar (KS Test 0.98010878010878)
+date_of_birth_distinct_emails_4w in Base.csv and Variant IV.csv similar (T-Test 0.9999955982036908)
+date_of_birth_distinct_emails_4w in Base.csv and Variant IV.csv similar (Mann-Whitney U Test 0.6737450351078312)
+
+
+
+
+
+
+date_of_birth_distinct_emails_4w in Base.csv and Variant V.csv similar (KS Test 0.98010878010878)
+date_of_birth_distinct_emails_4w in Base.csv and Variant V.csv similar (T-Test 0.9999944857065299)
+date_of_birth_distinct_emails_4w in Base.csv and Variant V.csv similar (Mann-Whitney U Test 0.6360055414356227)
+
+
+
+
+
+
+date_of_birth_distinct_emails_4w in Variant I.csv and Variant II.csv similar (KS Test 0.98010878010878)
+date_of_birth_distinct_emails_4w in Variant I.csv and Variant II.csv similar (T-Test 0.9999955918506397)
+date_of_birth_distinct_emails_4w in Variant I.csv and Variant II.csv similar (Mann-Whitney U Test 0.6737450351078312)
+
+
+
+
+
+
+date_of_birth_distinct_emails_4w in Variant I.csv and Variant III.csv similar (KS Test 0.98010878010878)
+date_of_birth_distinct_emails_4w in Variant I.csv and Variant III.csv similar (T-Test 0.999995414400706)
+date_of_birth_distinct_emails_4w in Variant I.csv and Variant III.csv similar (Mann-Whitney U Test 0.6737450351078312)
+
+
+
+
+
+
+date_of_birth_distinct_emails_4w in Variant I.csv and Variant IV.csv similar (KS Test 0.98010878010878)
+date_of_birth_distinct_emails_4w in Variant I.csv and Variant IV.csv similar (T-Test 0.9999954161285334)
+date_of_birth_distinct_emails_4w in Variant I.csv and Variant IV.csv similar (Mann-Whitney U Test 0.6737450351078312)
+
+
+
+
+
+
+date_of_birth_distinct_emails_4w in Variant I.csv and Variant V.csv similar (KS Test 0.98010878010878)
+date_of_birth_distinct_emails_4w in Variant I.csv and Variant V.csv similar (T-Test 0.9999943036313725)
+date_of_birth_distinct_emails_4w in Variant I.csv and Variant V.csv similar (Mann-Whitney U Test 0.6360055414356227)
+
+
+
+
+
+
+date_of_birth_distinct_emails_4w in Variant II.csv and Variant III.csv similar (KS Test 1.0)
+date_of_birth_distinct_emails_4w in Variant II.csv and Variant III.csv similar (T-Test 0.9999998225500664)
+date_of_birth_distinct_emails_4w in Variant II.csv and Variant III.csv similar (Mann-Whitney U Test 0.9579361106814205)
+
+
+
+
+
+
+date_of_birth_distinct_emails_4w in Variant II.csv and Variant IV.csv similar (KS Test 1.0)
+date_of_birth_distinct_emails_4w in Variant II.csv and Variant IV.csv similar (T-Test 0.9999998242778938)
+date_of_birth_distinct_emails_4w in Variant II.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9579361106814205)
+
+
+
+
+
+
+date_of_birth_distinct_emails_4w in Variant II.csv and Variant V.csv similar (KS Test 1.0)
+date_of_birth_distinct_emails_4w in Variant II.csv and Variant V.csv similar (T-Test 0.999998711780733)
+date_of_birth_distinct_emails_4w in Variant II.csv and Variant V.csv similar (Mann-Whitney U Test 0.9160510722818964)
+
+
+
+
+
+
+date_of_birth_distinct_emails_4w in Variant III.csv and Variant IV.csv similar (KS Test 1.0)
+date_of_birth_distinct_emails_4w in Variant III.csv and Variant IV.csv similar (T-Test 0.9999999982721727)
+date_of_birth_distinct_emails_4w in Variant III.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9579361106814205)
+
+
+
+
+
+
+date_of_birth_distinct_emails_4w in Variant III.csv and Variant V.csv similar (KS Test 1.0)
+date_of_birth_distinct_emails_4w in Variant III.csv and Variant V.csv similar (T-Test 0.9999988892306666)
+date_of_birth_distinct_emails_4w in Variant III.csv and Variant V.csv similar (Mann-Whitney U Test 0.9160510722818964)
+
+
+
+
+
+
+date_of_birth_distinct_emails_4w in Variant IV.csv and Variant V.csv similar (KS Test 1.0)
+date_of_birth_distinct_emails_4w in Variant IV.csv and Variant V.csv similar (T-Test 0.9999988875028394)
+date_of_birth_distinct_emails_4w in Variant IV.csv and Variant V.csv similar (Mann-Whitney U Test 0.9160510722818964)
+
+
+
+
+
+
+prev_address_months_count in Base.csv and Variant I.csv similar (KS Test 1.0)
+prev_address_months_count in Base.csv and Variant I.csv similar (T-Test 0.9999894326999397)
+prev_address_months_count in Base.csv and Variant I.csv similar (Mann-Whitney U Test 0.9569684426353757)
+
+
+
+
+
+
+prev_address_months_count in Base.csv and Variant II.csv similar (KS Test 1.0)
+prev_address_months_count in Base.csv and Variant II.csv similar (T-Test 0.9999998386539866)
+prev_address_months_count in Base.csv and Variant II.csv similar (Mann-Whitney U Test 0.8263069951934664)
+
+
+
+
+
+
+prev_address_months_count in Base.csv and Variant III.csv similar (KS Test 1.0)
+prev_address_months_count in Base.csv and Variant III.csv similar (T-Test 0.9999999613684898)
+prev_address_months_count in Base.csv and Variant III.csv similar (Mann-Whitney U Test 0.8263069951934664)
+
+
+
+
+
+
+prev_address_months_count in Base.csv and Variant IV.csv similar (KS Test 1.0)
+prev_address_months_count in Base.csv and Variant IV.csv similar (T-Test 0.9999999567983273)
+prev_address_months_count in Base.csv and Variant IV.csv similar (Mann-Whitney U Test 0.8263069951934664)
+
+
+
+
+
+
+prev_address_months_count in Base.csv and Variant V.csv similar (KS Test 1.0)
+prev_address_months_count in Base.csv and Variant V.csv similar (T-Test 0.9999917491215651)
+prev_address_months_count in Base.csv and Variant V.csv similar (Mann-Whitney U Test 0.8263069951934664)
+
+
+
+
+
+
+prev_address_months_count in Variant I.csv and Variant II.csv similar (KS Test 0.98010878010878)
+prev_address_months_count in Variant I.csv and Variant II.csv similar (T-Test 0.9999895940459895)
+prev_address_months_count in Variant I.csv and Variant II.csv similar (Mann-Whitney U Test 0.7007344015602159)
+
+
+
+
+
+
+prev_address_months_count in Variant I.csv and Variant III.csv similar (KS Test 0.98010878010878)
+prev_address_months_count in Variant I.csv and Variant III.csv similar (T-Test 0.9999893940684665)
+prev_address_months_count in Variant I.csv and Variant III.csv similar (Mann-Whitney U Test 0.7007344015602159)
+
+
+
+
+
+
+prev_address_months_count in Variant I.csv and Variant IV.csv similar (KS Test 0.98010878010878)
+prev_address_months_count in Variant I.csv and Variant IV.csv similar (T-Test 0.9999893894983041)
+prev_address_months_count in Variant I.csv and Variant IV.csv similar (Mann-Whitney U Test 0.7007344015602159)
+
+
+
+
+
+
+prev_address_months_count in Variant I.csv and Variant V.csv similar (KS Test 0.98010878010878)
+prev_address_months_count in Variant I.csv and Variant V.csv similar (T-Test 0.9999811818215373)
+prev_address_months_count in Variant I.csv and Variant V.csv similar (Mann-Whitney U Test 0.6607478964658151)
+
+
+
+
+
+
+prev_address_months_count in Variant II.csv and Variant III.csv similar (KS Test 1.0)
+prev_address_months_count in Variant II.csv and Variant III.csv similar (T-Test 0.999999800022477)
+prev_address_months_count in Variant II.csv and Variant III.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+prev_address_months_count in Variant II.csv and Variant IV.csv similar (KS Test 1.0)
+prev_address_months_count in Variant II.csv and Variant IV.csv similar (T-Test 0.9999997954523148)
+prev_address_months_count in Variant II.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+prev_address_months_count in Variant II.csv and Variant V.csv similar (KS Test 1.0)
+prev_address_months_count in Variant II.csv and Variant V.csv similar (T-Test 0.9999915877755806)
+prev_address_months_count in Variant II.csv and Variant V.csv similar (Mann-Whitney U Test 0.9106076008202094)
+
+
+
+
+
+
+prev_address_months_count in Variant III.csv and Variant IV.csv similar (KS Test 1.0)
+prev_address_months_count in Variant III.csv and Variant IV.csv similar (T-Test 0.9999999954298375)
+prev_address_months_count in Variant III.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+prev_address_months_count in Variant III.csv and Variant V.csv similar (KS Test 1.0)
+prev_address_months_count in Variant III.csv and Variant V.csv similar (T-Test 0.9999917877531042)
+prev_address_months_count in Variant III.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+prev_address_months_count in Variant IV.csv and Variant V.csv similar (KS Test 1.0)
+prev_address_months_count in Variant IV.csv and Variant V.csv similar (T-Test 0.9999917923232666)
+prev_address_months_count in Variant IV.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+velocity_4w in Base.csv and Variant I.csv similar (KS Test 1.0)
+velocity_4w in Base.csv and Variant I.csv similar (T-Test 0.9999686513866091)
+velocity_4w in Base.csv and Variant I.csv similar (Mann-Whitney U Test 0.8335142129533152)
+
+
+
+
+
+
+velocity_4w in Base.csv and Variant II.csv similar (KS Test 1.0)
+velocity_4w in Base.csv and Variant II.csv similar (T-Test 0.9999552280398989)
+velocity_4w in Base.csv and Variant II.csv similar (Mann-Whitney U Test 0.8335142129533152)
+
+
+
+
+
+
+velocity_4w in Base.csv and Variant III.csv similar (KS Test 0.98010878010878)
+velocity_4w in Base.csv and Variant III.csv similar (T-Test 0.9997833859418198)
+velocity_4w in Base.csv and Variant III.csv similar (Mann-Whitney U Test 0.8335142129533152)
+
+
+
+
+
+
+velocity_4w in Base.csv and Variant IV.csv similar (KS Test 0.98010878010878)
+velocity_4w in Base.csv and Variant IV.csv similar (T-Test 0.9997833600068844)
+velocity_4w in Base.csv and Variant IV.csv similar (Mann-Whitney U Test 0.8335142129533152)
+
+
+
+
+
+
+velocity_4w in Base.csv and Variant V.csv similar (KS Test 0.98010878010878)
+velocity_4w in Base.csv and Variant V.csv similar (T-Test 0.9997769596907584)
+velocity_4w in Base.csv and Variant V.csv similar (Mann-Whitney U Test 0.8335142129533152)
+
+
+
+
+
+
+velocity_4w in Variant I.csv and Variant II.csv similar (KS Test 1.0)
+velocity_4w in Variant I.csv and Variant II.csv similar (T-Test 0.9999865766535745)
+velocity_4w in Variant I.csv and Variant II.csv similar (Mann-Whitney U Test 0.8746430148353899)
+
+
+
+
+
+
+velocity_4w in Variant I.csv and Variant III.csv similar (KS Test 0.98010878010878)
+velocity_4w in Variant I.csv and Variant III.csv similar (T-Test 0.9997520373306098)
+velocity_4w in Variant I.csv and Variant III.csv similar (Mann-Whitney U Test 0.7925972289255464)
+
+
+
+
+
+
+velocity_4w in Variant I.csv and Variant IV.csv similar (KS Test 0.98010878010878)
+velocity_4w in Variant I.csv and Variant IV.csv similar (T-Test 0.9997520113956755)
+velocity_4w in Variant I.csv and Variant IV.csv similar (Mann-Whitney U Test 0.7925972289255464)
+
+
+
+
+
+
+velocity_4w in Variant I.csv and Variant V.csv similar (KS Test 0.98010878010878)
+velocity_4w in Variant I.csv and Variant V.csv similar (T-Test 0.99974561108007)
+velocity_4w in Variant I.csv and Variant V.csv similar (Mann-Whitney U Test 0.7925972289255464)
+
+
+
+
+
+
+velocity_4w in Variant II.csv and Variant III.csv similar (KS Test 0.98010878010878)
+velocity_4w in Variant II.csv and Variant III.csv similar (T-Test 0.9997386139828672)
+velocity_4w in Variant II.csv and Variant III.csv similar (Mann-Whitney U Test 0.7521844391485517)
+
+
+
+
+
+
+velocity_4w in Variant II.csv and Variant IV.csv similar (KS Test 0.98010878010878)
+velocity_4w in Variant II.csv and Variant IV.csv similar (T-Test 0.999738588047933)
+velocity_4w in Variant II.csv and Variant IV.csv similar (Mann-Whitney U Test 0.7521844391485517)
+
+
+
+
+
+
+velocity_4w in Variant II.csv and Variant V.csv similar (KS Test 0.98010878010878)
+velocity_4w in Variant II.csv and Variant V.csv similar (T-Test 0.9997321877324924)
+velocity_4w in Variant II.csv and Variant V.csv similar (Mann-Whitney U Test 0.7127872877960982)
+
+
+
+
+
+
+velocity_4w in Variant III.csv and Variant IV.csv similar (KS Test 1.0)
+velocity_4w in Variant III.csv and Variant IV.csv similar (T-Test 0.9999999740650589)
+velocity_4w in Variant III.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9161747074605952)
+
+
+
+
+
+
+velocity_4w in Variant III.csv and Variant V.csv similar (KS Test 1.0)
+velocity_4w in Variant III.csv and Variant V.csv similar (T-Test 0.9999935737457818)
+velocity_4w in Variant III.csv and Variant V.csv similar (Mann-Whitney U Test 0.9580602618255808)
+
+
+
+
+
+
+velocity_4w in Variant IV.csv and Variant V.csv similar (KS Test 1.0)
+velocity_4w in Variant IV.csv and Variant V.csv similar (T-Test 0.9999935996807227)
+velocity_4w in Variant IV.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+velocity_24h in Base.csv and Variant I.csv similar (KS Test 1.0)
+velocity_24h in Base.csv and Variant I.csv similar (T-Test 0.9999753813408623)
+velocity_24h in Base.csv and Variant I.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+velocity_24h in Base.csv and Variant II.csv similar (KS Test 1.0)
+velocity_24h in Base.csv and Variant II.csv similar (T-Test 0.9999371543154225)
+velocity_24h in Base.csv and Variant II.csv similar (Mann-Whitney U Test 0.9162977979978499)
+
+
+
+
+
+
+velocity_24h in Base.csv and Variant III.csv similar (KS Test 0.98010878010878)
+velocity_24h in Base.csv and Variant III.csv similar (T-Test 0.9997536388898349)
+velocity_24h in Base.csv and Variant III.csv similar (Mann-Whitney U Test 0.8335142129533152)
+
+
+
+
+
+
+velocity_24h in Base.csv and Variant IV.csv similar (KS Test 0.98010878010878)
+velocity_24h in Base.csv and Variant IV.csv similar (T-Test 0.999753615389521)
+velocity_24h in Base.csv and Variant IV.csv similar (Mann-Whitney U Test 0.8335142129533152)
+
+
+
+
+
+
+velocity_24h in Base.csv and Variant V.csv similar (KS Test 0.98010878010878)
+velocity_24h in Base.csv and Variant V.csv similar (T-Test 0.9997678159898569)
+velocity_24h in Base.csv and Variant V.csv similar (Mann-Whitney U Test 0.7525377274994569)
+
+
+
+
+
+
+velocity_24h in Variant I.csv and Variant II.csv similar (KS Test 1.0)
+velocity_24h in Variant I.csv and Variant II.csv similar (T-Test 0.9999617729764312)
+velocity_24h in Variant I.csv and Variant II.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+velocity_24h in Variant I.csv and Variant III.csv similar (KS Test 0.98010878010878)
+velocity_24h in Variant I.csv and Variant III.csv similar (T-Test 0.9997290202451972)
+velocity_24h in Variant I.csv and Variant III.csv similar (Mann-Whitney U Test 0.7521844391485517)
+
+
+
+
+
+
+velocity_24h in Variant I.csv and Variant IV.csv similar (KS Test 0.98010878010878)
+velocity_24h in Variant I.csv and Variant IV.csv similar (T-Test 0.9997289967448888)
+velocity_24h in Variant I.csv and Variant IV.csv similar (Mann-Whitney U Test 0.7521844391485517)
+
+
+
+
+
+
+velocity_24h in Variant I.csv and Variant V.csv similar (KS Test 0.98010878010878)
+velocity_24h in Variant I.csv and Variant V.csv similar (T-Test 0.9997431973487889)
+velocity_24h in Variant I.csv and Variant V.csv similar (Mann-Whitney U Test 0.7525377274994569)
+
+
+
+
+
+
+velocity_24h in Variant II.csv and Variant III.csv similar (KS Test 0.98010878010878)
+velocity_24h in Variant II.csv and Variant III.csv similar (T-Test 0.9996907932235508)
+velocity_24h in Variant II.csv and Variant III.csv similar (Mann-Whitney U Test 0.7521844391485517)
+
+
+
+
+
+
+velocity_24h in Variant II.csv and Variant IV.csv similar (KS Test 0.98010878010878)
+velocity_24h in Variant II.csv and Variant IV.csv similar (T-Test 0.9996907697232492)
+velocity_24h in Variant II.csv and Variant IV.csv similar (Mann-Whitney U Test 0.7521844391485517)
+
+
+
+
+
+
+velocity_24h in Variant II.csv and Variant V.csv similar (KS Test 0.98010878010878)
+velocity_24h in Variant II.csv and Variant V.csv similar (T-Test 0.9997049703337633)
+velocity_24h in Variant II.csv and Variant V.csv similar (Mann-Whitney U Test 0.7525377274994569)
+
+
+
+
+
+
+velocity_24h in Variant III.csv and Variant IV.csv similar (KS Test 1.0)
+velocity_24h in Variant III.csv and Variant IV.csv similar (T-Test 0.9999999764996446)
+velocity_24h in Variant III.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9161747074605952)
+
+
+
+
+
+
+velocity_24h in Variant III.csv and Variant V.csv similar (KS Test 1.0)
+velocity_24h in Variant III.csv and Variant V.csv similar (T-Test 0.9999858229440488)
+velocity_24h in Variant III.csv and Variant V.csv similar (Mann-Whitney U Test 0.9162977979978499)
+
+
+
+
+
+
+velocity_24h in Variant IV.csv and Variant V.csv similar (KS Test 1.0)
+velocity_24h in Variant IV.csv and Variant V.csv similar (T-Test 0.9999857994437)
+velocity_24h in Variant IV.csv and Variant V.csv similar (Mann-Whitney U Test 0.9162977979978499)
+
+
+
+
+
+
+employment_status in Base.csv and Variant I.csv similar (KS Test nan)
+employment_status in Base.csv and Variant I.csv similar (T-Test nan)
+employment_status in Base.csv and Variant I.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+employment_status in Base.csv and Variant II.csv similar (KS Test nan)
+employment_status in Base.csv and Variant II.csv similar (T-Test nan)
+employment_status in Base.csv and Variant II.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+employment_status in Base.csv and Variant III.csv similar (KS Test nan)
+employment_status in Base.csv and Variant III.csv similar (T-Test nan)
+employment_status in Base.csv and Variant III.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+employment_status in Base.csv and Variant IV.csv similar (KS Test nan)
+employment_status in Base.csv and Variant IV.csv similar (T-Test nan)
+employment_status in Base.csv and Variant IV.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+employment_status in Base.csv and Variant V.csv similar (KS Test nan)
+employment_status in Base.csv and Variant V.csv similar (T-Test nan)
+employment_status in Base.csv and Variant V.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+employment_status in Variant I.csv and Variant II.csv similar (KS Test nan)
+employment_status in Variant I.csv and Variant II.csv similar (T-Test nan)
+employment_status in Variant I.csv and Variant II.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+employment_status in Variant I.csv and Variant III.csv similar (KS Test nan)
+employment_status in Variant I.csv and Variant III.csv similar (T-Test nan)
+employment_status in Variant I.csv and Variant III.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+employment_status in Variant I.csv and Variant IV.csv similar (KS Test nan)
+employment_status in Variant I.csv and Variant IV.csv similar (T-Test nan)
+employment_status in Variant I.csv and Variant IV.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+employment_status in Variant I.csv and Variant V.csv similar (KS Test nan)
+employment_status in Variant I.csv and Variant V.csv similar (T-Test nan)
+employment_status in Variant I.csv and Variant V.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+employment_status in Variant II.csv and Variant III.csv similar (KS Test nan)
+employment_status in Variant II.csv and Variant III.csv similar (T-Test nan)
+employment_status in Variant II.csv and Variant III.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+employment_status in Variant II.csv and Variant IV.csv similar (KS Test nan)
+employment_status in Variant II.csv and Variant IV.csv similar (T-Test nan)
+employment_status in Variant II.csv and Variant IV.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+employment_status in Variant II.csv and Variant V.csv similar (KS Test nan)
+employment_status in Variant II.csv and Variant V.csv similar (T-Test nan)
+employment_status in Variant II.csv and Variant V.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+employment_status in Variant III.csv and Variant IV.csv similar (KS Test nan)
+employment_status in Variant III.csv and Variant IV.csv similar (T-Test nan)
+employment_status in Variant III.csv and Variant IV.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+employment_status in Variant III.csv and Variant V.csv similar (KS Test nan)
+employment_status in Variant III.csv and Variant V.csv similar (T-Test nan)
+employment_status in Variant III.csv and Variant V.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+employment_status in Variant IV.csv and Variant V.csv similar (KS Test nan)
+employment_status in Variant IV.csv and Variant V.csv similar (T-Test nan)
+employment_status in Variant IV.csv and Variant V.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+keep_alive_session in Base.csv and Variant I.csv similar (KS Test 1.0)
+keep_alive_session in Base.csv and Variant I.csv similar (T-Test 0.9999999986507293)
+keep_alive_session in Base.csv and Variant I.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+keep_alive_session in Base.csv and Variant II.csv similar (KS Test 1.0)
+keep_alive_session in Base.csv and Variant II.csv similar (T-Test 0.9999999920588677)
+keep_alive_session in Base.csv and Variant II.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+keep_alive_session in Base.csv and Variant III.csv similar (KS Test 1.0)
+keep_alive_session in Base.csv and Variant III.csv similar (T-Test 0.999999989909624)
+keep_alive_session in Base.csv and Variant III.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+keep_alive_session in Base.csv and Variant IV.csv similar (KS Test 1.0)
+keep_alive_session in Base.csv and Variant IV.csv similar (T-Test 0.9999999899391322)
+keep_alive_session in Base.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+keep_alive_session in Base.csv and Variant V.csv similar (KS Test 1.0)
+keep_alive_session in Base.csv and Variant V.csv similar (T-Test 0.9999999900964407)
+keep_alive_session in Base.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+keep_alive_session in Variant I.csv and Variant II.csv similar (KS Test 1.0)
+keep_alive_session in Variant I.csv and Variant II.csv similar (T-Test 0.9999999907095969)
+keep_alive_session in Variant I.csv and Variant II.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+keep_alive_session in Variant I.csv and Variant III.csv similar (KS Test 1.0)
+keep_alive_session in Variant I.csv and Variant III.csv similar (T-Test 0.9999999885603532)
+keep_alive_session in Variant I.csv and Variant III.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+keep_alive_session in Variant I.csv and Variant IV.csv similar (KS Test 1.0)
+keep_alive_session in Variant I.csv and Variant IV.csv similar (T-Test 0.9999999885898614)
+keep_alive_session in Variant I.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+keep_alive_session in Variant I.csv and Variant V.csv similar (KS Test 1.0)
+keep_alive_session in Variant I.csv and Variant V.csv similar (T-Test 0.9999999887471699)
+keep_alive_session in Variant I.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+keep_alive_session in Variant II.csv and Variant III.csv similar (KS Test 1.0)
+keep_alive_session in Variant II.csv and Variant III.csv similar (T-Test 0.9999999978507563)
+keep_alive_session in Variant II.csv and Variant III.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+keep_alive_session in Variant II.csv and Variant IV.csv similar (KS Test 1.0)
+keep_alive_session in Variant II.csv and Variant IV.csv similar (T-Test 0.9999999978802645)
+keep_alive_session in Variant II.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+keep_alive_session in Variant II.csv and Variant V.csv similar (KS Test 1.0)
+keep_alive_session in Variant II.csv and Variant V.csv similar (T-Test 0.9999999980375729)
+keep_alive_session in Variant II.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+keep_alive_session in Variant III.csv and Variant IV.csv similar (KS Test 1.0)
+keep_alive_session in Variant III.csv and Variant IV.csv similar (T-Test 0.9999999999704918)
+keep_alive_session in Variant III.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+keep_alive_session in Variant III.csv and Variant V.csv similar (KS Test 1.0)
+keep_alive_session in Variant III.csv and Variant V.csv similar (T-Test 0.9999999998131834)
+keep_alive_session in Variant III.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+keep_alive_session in Variant IV.csv and Variant V.csv similar (KS Test 1.0)
+keep_alive_session in Variant IV.csv and Variant V.csv similar (T-Test 0.9999999998426916)
+keep_alive_session in Variant IV.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+bank_months_count in Base.csv and Variant I.csv similar (KS Test 1.0)
+bank_months_count in Base.csv and Variant I.csv similar (T-Test 0.9999999803424424)
+bank_months_count in Base.csv and Variant I.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+bank_months_count in Base.csv and Variant II.csv similar (KS Test 1.0)
+bank_months_count in Base.csv and Variant II.csv similar (T-Test 0.9999981440670331)
+bank_months_count in Base.csv and Variant II.csv similar (Mann-Whitney U Test 0.9159268884334132)
+
+
+
+
+
+
+bank_months_count in Base.csv and Variant III.csv similar (KS Test 1.0)
+bank_months_count in Base.csv and Variant III.csv similar (T-Test 0.9999981659002892)
+bank_months_count in Base.csv and Variant III.csv similar (Mann-Whitney U Test 0.8327846372269881)
+
+
+
+
+
+
+bank_months_count in Base.csv and Variant IV.csv similar (KS Test 1.0)
+bank_months_count in Base.csv and Variant IV.csv similar (T-Test 0.9999981660648464)
+bank_months_count in Base.csv and Variant IV.csv similar (Mann-Whitney U Test 0.8327846372269881)
+
+
+
+
+
+
+bank_months_count in Base.csv and Variant V.csv similar (KS Test 1.0)
+bank_months_count in Base.csv and Variant V.csv similar (T-Test 0.9999981670568463)
+bank_months_count in Base.csv and Variant V.csv similar (Mann-Whitney U Test 0.8327846372269881)
+
+
+
+
+
+
+bank_months_count in Variant I.csv and Variant II.csv similar (KS Test 1.0)
+bank_months_count in Variant I.csv and Variant II.csv similar (T-Test 0.9999981244094756)
+bank_months_count in Variant I.csv and Variant II.csv similar (Mann-Whitney U Test 0.9159268884334132)
+
+
+
+
+
+
+bank_months_count in Variant I.csv and Variant III.csv similar (KS Test 1.0)
+bank_months_count in Variant I.csv and Variant III.csv similar (T-Test 0.9999981462427316)
+bank_months_count in Variant I.csv and Variant III.csv similar (Mann-Whitney U Test 0.8327846372269881)
+
+
+
+
+
+
+bank_months_count in Variant I.csv and Variant IV.csv similar (KS Test 1.0)
+bank_months_count in Variant I.csv and Variant IV.csv similar (T-Test 0.9999981464072889)
+bank_months_count in Variant I.csv and Variant IV.csv similar (Mann-Whitney U Test 0.8327846372269881)
+
+
+
+
+
+
+bank_months_count in Variant I.csv and Variant V.csv similar (KS Test 1.0)
+bank_months_count in Variant I.csv and Variant V.csv similar (T-Test 0.9999981473992888)
+bank_months_count in Variant I.csv and Variant V.csv similar (Mann-Whitney U Test 0.8327846372269881)
+
+
+
+
+
+
+bank_months_count in Variant II.csv and Variant III.csv similar (KS Test 1.0)
+bank_months_count in Variant II.csv and Variant III.csv similar (T-Test 0.9999999781667439)
+bank_months_count in Variant II.csv and Variant III.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+bank_months_count in Variant II.csv and Variant IV.csv similar (KS Test 1.0)
+bank_months_count in Variant II.csv and Variant IV.csv similar (T-Test 0.9999999780021867)
+bank_months_count in Variant II.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+bank_months_count in Variant II.csv and Variant V.csv similar (KS Test 1.0)
+bank_months_count in Variant II.csv and Variant V.csv similar (T-Test 0.9999999770101867)
+bank_months_count in Variant II.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+bank_months_count in Variant III.csv and Variant IV.csv similar (KS Test 1.0)
+bank_months_count in Variant III.csv and Variant IV.csv similar (T-Test 0.999999999835443)
+bank_months_count in Variant III.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+bank_months_count in Variant III.csv and Variant V.csv similar (KS Test 1.0)
+bank_months_count in Variant III.csv and Variant V.csv similar (T-Test 0.9999999988434429)
+bank_months_count in Variant III.csv and Variant V.csv similar (Mann-Whitney U Test 0.9579361106814205)
+
+
+
+
+
+
+bank_months_count in Variant IV.csv and Variant V.csv similar (KS Test 1.0)
+bank_months_count in Variant IV.csv and Variant V.csv similar (T-Test 0.999999999008)
+bank_months_count in Variant IV.csv and Variant V.csv similar (Mann-Whitney U Test 0.9579361106814205)
+
+
+
+
+
+
+foreign_request in Base.csv and Variant I.csv similar (KS Test 1.0)
+foreign_request in Base.csv and Variant I.csv similar (T-Test 0.9999999994812936)
+foreign_request in Base.csv and Variant I.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+foreign_request in Base.csv and Variant II.csv similar (KS Test 1.0)
+foreign_request in Base.csv and Variant II.csv similar (T-Test 0.9999999987986405)
+foreign_request in Base.csv and Variant II.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+foreign_request in Base.csv and Variant III.csv similar (KS Test 1.0)
+foreign_request in Base.csv and Variant III.csv similar (T-Test 0.9999999970791725)
+foreign_request in Base.csv and Variant III.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+foreign_request in Base.csv and Variant IV.csv similar (KS Test 1.0)
+foreign_request in Base.csv and Variant IV.csv similar (T-Test 0.9999999970540909)
+foreign_request in Base.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+foreign_request in Base.csv and Variant V.csv similar (KS Test 1.0)
+foreign_request in Base.csv and Variant V.csv similar (T-Test 0.999999997179452)
+foreign_request in Base.csv and Variant V.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+foreign_request in Variant I.csv and Variant II.csv similar (KS Test 1.0)
+foreign_request in Variant I.csv and Variant II.csv similar (T-Test 0.999999999317347)
+foreign_request in Variant I.csv and Variant II.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+foreign_request in Variant I.csv and Variant III.csv similar (KS Test 1.0)
+foreign_request in Variant I.csv and Variant III.csv similar (T-Test 0.9999999975978789)
+foreign_request in Variant I.csv and Variant III.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+foreign_request in Variant I.csv and Variant IV.csv similar (KS Test 1.0)
+foreign_request in Variant I.csv and Variant IV.csv similar (T-Test 0.9999999975727973)
+foreign_request in Variant I.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+foreign_request in Variant I.csv and Variant V.csv similar (KS Test 1.0)
+foreign_request in Variant I.csv and Variant V.csv similar (T-Test 0.9999999976981583)
+foreign_request in Variant I.csv and Variant V.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+foreign_request in Variant II.csv and Variant III.csv similar (KS Test 1.0)
+foreign_request in Variant II.csv and Variant III.csv similar (T-Test 0.999999998280532)
+foreign_request in Variant II.csv and Variant III.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+foreign_request in Variant II.csv and Variant IV.csv similar (KS Test 1.0)
+foreign_request in Variant II.csv and Variant IV.csv similar (T-Test 0.9999999982554504)
+foreign_request in Variant II.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+foreign_request in Variant II.csv and Variant V.csv similar (KS Test 1.0)
+foreign_request in Variant II.csv and Variant V.csv similar (T-Test 0.9999999983808113)
+foreign_request in Variant II.csv and Variant V.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+foreign_request in Variant III.csv and Variant IV.csv similar (KS Test 1.0)
+foreign_request in Variant III.csv and Variant IV.csv similar (T-Test 0.9999999999749183)
+foreign_request in Variant III.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+foreign_request in Variant III.csv and Variant V.csv similar (KS Test 1.0)
+foreign_request in Variant III.csv and Variant V.csv similar (T-Test 0.9999999998997207)
+foreign_request in Variant III.csv and Variant V.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+foreign_request in Variant IV.csv and Variant V.csv similar (KS Test 1.0)
+foreign_request in Variant IV.csv and Variant V.csv similar (T-Test 0.999999999874639)
+foreign_request in Variant IV.csv and Variant V.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+housing_status in Base.csv and Variant I.csv similar (KS Test nan)
+housing_status in Base.csv and Variant I.csv similar (T-Test nan)
+housing_status in Base.csv and Variant I.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+housing_status in Base.csv and Variant II.csv similar (KS Test nan)
+housing_status in Base.csv and Variant II.csv similar (T-Test nan)
+housing_status in Base.csv and Variant II.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+housing_status in Base.csv and Variant III.csv similar (KS Test nan)
+housing_status in Base.csv and Variant III.csv similar (T-Test nan)
+housing_status in Base.csv and Variant III.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+housing_status in Base.csv and Variant IV.csv similar (KS Test nan)
+housing_status in Base.csv and Variant IV.csv similar (T-Test nan)
+housing_status in Base.csv and Variant IV.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+housing_status in Base.csv and Variant V.csv similar (KS Test nan)
+housing_status in Base.csv and Variant V.csv similar (T-Test nan)
+housing_status in Base.csv and Variant V.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+housing_status in Variant I.csv and Variant II.csv similar (KS Test nan)
+housing_status in Variant I.csv and Variant II.csv similar (T-Test nan)
+housing_status in Variant I.csv and Variant II.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+housing_status in Variant I.csv and Variant III.csv similar (KS Test nan)
+housing_status in Variant I.csv and Variant III.csv similar (T-Test nan)
+housing_status in Variant I.csv and Variant III.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+housing_status in Variant I.csv and Variant IV.csv similar (KS Test nan)
+housing_status in Variant I.csv and Variant IV.csv similar (T-Test nan)
+housing_status in Variant I.csv and Variant IV.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+housing_status in Variant I.csv and Variant V.csv similar (KS Test nan)
+housing_status in Variant I.csv and Variant V.csv similar (T-Test nan)
+housing_status in Variant I.csv and Variant V.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+housing_status in Variant II.csv and Variant III.csv similar (KS Test nan)
+housing_status in Variant II.csv and Variant III.csv similar (T-Test nan)
+housing_status in Variant II.csv and Variant III.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+housing_status in Variant II.csv and Variant IV.csv similar (KS Test nan)
+housing_status in Variant II.csv and Variant IV.csv similar (T-Test nan)
+housing_status in Variant II.csv and Variant IV.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+housing_status in Variant II.csv and Variant V.csv similar (KS Test nan)
+housing_status in Variant II.csv and Variant V.csv similar (T-Test nan)
+housing_status in Variant II.csv and Variant V.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+housing_status in Variant III.csv and Variant IV.csv similar (KS Test nan)
+housing_status in Variant III.csv and Variant IV.csv similar (T-Test nan)
+housing_status in Variant III.csv and Variant IV.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+housing_status in Variant III.csv and Variant V.csv similar (KS Test nan)
+housing_status in Variant III.csv and Variant V.csv similar (T-Test nan)
+housing_status in Variant III.csv and Variant V.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+housing_status in Variant IV.csv and Variant V.csv similar (KS Test nan)
+housing_status in Variant IV.csv and Variant V.csv similar (T-Test nan)
+housing_status in Variant IV.csv and Variant V.csv similar (Mann-Whitney U Test nan)
+
+
+
+
+
+
+phone_mobile_valid in Base.csv and Variant I.csv similar (KS Test 1.0)
+phone_mobile_valid in Base.csv and Variant I.csv similar (T-Test 0.9999999986762617)
+phone_mobile_valid in Base.csv and Variant I.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+phone_mobile_valid in Base.csv and Variant II.csv similar (KS Test 1.0)
+phone_mobile_valid in Base.csv and Variant II.csv similar (T-Test 0.999999997711224)
+phone_mobile_valid in Base.csv and Variant II.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+phone_mobile_valid in Base.csv and Variant III.csv similar (KS Test 1.0)
+phone_mobile_valid in Base.csv and Variant III.csv similar (T-Test 0.9999999977261449)
+phone_mobile_valid in Base.csv and Variant III.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+phone_mobile_valid in Base.csv and Variant IV.csv similar (KS Test 1.0)
+phone_mobile_valid in Base.csv and Variant IV.csv similar (T-Test 0.99999999772693)
+phone_mobile_valid in Base.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+phone_mobile_valid in Base.csv and Variant V.csv similar (KS Test 1.0)
+phone_mobile_valid in Base.csv and Variant V.csv similar (T-Test 0.9999999977326636)
+phone_mobile_valid in Base.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+phone_mobile_valid in Variant I.csv and Variant II.csv similar (KS Test 1.0)
+phone_mobile_valid in Variant I.csv and Variant II.csv similar (T-Test 0.9999999963874857)
+phone_mobile_valid in Variant I.csv and Variant II.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+phone_mobile_valid in Variant I.csv and Variant III.csv similar (KS Test 1.0)
+phone_mobile_valid in Variant I.csv and Variant III.csv similar (T-Test 0.9999999964024067)
+phone_mobile_valid in Variant I.csv and Variant III.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+phone_mobile_valid in Variant I.csv and Variant IV.csv similar (KS Test 1.0)
+phone_mobile_valid in Variant I.csv and Variant IV.csv similar (T-Test 0.9999999964031918)
+phone_mobile_valid in Variant I.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+phone_mobile_valid in Variant I.csv and Variant V.csv similar (KS Test 1.0)
+phone_mobile_valid in Variant I.csv and Variant V.csv similar (T-Test 0.9999999964089252)
+phone_mobile_valid in Variant I.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+phone_mobile_valid in Variant II.csv and Variant III.csv similar (KS Test 1.0)
+phone_mobile_valid in Variant II.csv and Variant III.csv similar (T-Test 0.999999999985079)
+phone_mobile_valid in Variant II.csv and Variant III.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+phone_mobile_valid in Variant II.csv and Variant IV.csv similar (KS Test 1.0)
+phone_mobile_valid in Variant II.csv and Variant IV.csv similar (T-Test 0.9999999999842939)
+phone_mobile_valid in Variant II.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+phone_mobile_valid in Variant II.csv and Variant V.csv similar (KS Test 1.0)
+phone_mobile_valid in Variant II.csv and Variant V.csv similar (T-Test 0.9999999999785605)
+phone_mobile_valid in Variant II.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+phone_mobile_valid in Variant III.csv and Variant IV.csv similar (KS Test 1.0)
+phone_mobile_valid in Variant III.csv and Variant IV.csv similar (T-Test 0.9999999999992149)
+phone_mobile_valid in Variant III.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+phone_mobile_valid in Variant III.csv and Variant V.csv similar (KS Test 1.0)
+phone_mobile_valid in Variant III.csv and Variant V.csv similar (T-Test 0.9999999999934814)
+phone_mobile_valid in Variant III.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+phone_mobile_valid in Variant IV.csv and Variant V.csv similar (KS Test 1.0)
+phone_mobile_valid in Variant IV.csv and Variant V.csv similar (T-Test 0.9999999999942666)
+phone_mobile_valid in Variant IV.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+email_is_free in Base.csv and Variant I.csv similar (KS Test 1.0)
+email_is_free in Base.csv and Variant I.csv similar (T-Test 0.9999999992565902)
+email_is_free in Base.csv and Variant I.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+email_is_free in Base.csv and Variant II.csv similar (KS Test 1.0)
+email_is_free in Base.csv and Variant II.csv similar (T-Test 0.9999999965211159)
+email_is_free in Base.csv and Variant II.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+email_is_free in Base.csv and Variant III.csv similar (KS Test 1.0)
+email_is_free in Base.csv and Variant III.csv similar (T-Test 0.9999999939548752)
+email_is_free in Base.csv and Variant III.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+email_is_free in Base.csv and Variant IV.csv similar (KS Test 1.0)
+email_is_free in Base.csv and Variant IV.csv similar (T-Test 0.9999999939223126)
+email_is_free in Base.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+email_is_free in Base.csv and Variant V.csv similar (KS Test 1.0)
+email_is_free in Base.csv and Variant V.csv similar (T-Test 0.9999999938646509)
+email_is_free in Base.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+email_is_free in Variant I.csv and Variant II.csv similar (KS Test 1.0)
+email_is_free in Variant I.csv and Variant II.csv similar (T-Test 0.9999999957777062)
+email_is_free in Variant I.csv and Variant II.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+email_is_free in Variant I.csv and Variant III.csv similar (KS Test 1.0)
+email_is_free in Variant I.csv and Variant III.csv similar (T-Test 0.9999999932114654)
+email_is_free in Variant I.csv and Variant III.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+email_is_free in Variant I.csv and Variant IV.csv similar (KS Test 1.0)
+email_is_free in Variant I.csv and Variant IV.csv similar (T-Test 0.9999999931789029)
+email_is_free in Variant I.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+email_is_free in Variant I.csv and Variant V.csv similar (KS Test 1.0)
+email_is_free in Variant I.csv and Variant V.csv similar (T-Test 0.9999999931212411)
+email_is_free in Variant I.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+email_is_free in Variant II.csv and Variant III.csv similar (KS Test 1.0)
+email_is_free in Variant II.csv and Variant III.csv similar (T-Test 0.9999999974337591)
+email_is_free in Variant II.csv and Variant III.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+email_is_free in Variant II.csv and Variant IV.csv similar (KS Test 1.0)
+email_is_free in Variant II.csv and Variant IV.csv similar (T-Test 0.9999999974011966)
+email_is_free in Variant II.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+email_is_free in Variant II.csv and Variant V.csv similar (KS Test 1.0)
+email_is_free in Variant II.csv and Variant V.csv similar (T-Test 0.999999997343535)
+email_is_free in Variant II.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+email_is_free in Variant III.csv and Variant IV.csv similar (KS Test 1.0)
+email_is_free in Variant III.csv and Variant IV.csv similar (T-Test 0.9999999999674376)
+email_is_free in Variant III.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+email_is_free in Variant III.csv and Variant V.csv similar (KS Test 1.0)
+email_is_free in Variant III.csv and Variant V.csv similar (T-Test 0.9999999999097757)
+email_is_free in Variant III.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+email_is_free in Variant IV.csv and Variant V.csv similar (KS Test 1.0)
+email_is_free in Variant IV.csv and Variant V.csv similar (T-Test 0.9999999999423382)
+email_is_free in Variant IV.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+fraud_bool in Base.csv and Variant I.csv similar (KS Test 1.0)
+fraud_bool in Base.csv and Variant I.csv similar (T-Test 1.0)
+fraud_bool in Base.csv and Variant I.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+fraud_bool in Base.csv and Variant II.csv similar (KS Test 1.0)
+fraud_bool in Base.csv and Variant II.csv similar (T-Test 1.0)
+fraud_bool in Base.csv and Variant II.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+fraud_bool in Base.csv and Variant III.csv similar (KS Test 1.0)
+fraud_bool in Base.csv and Variant III.csv similar (T-Test 0.9999999999968511)
+fraud_bool in Base.csv and Variant III.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+fraud_bool in Base.csv and Variant IV.csv similar (KS Test 1.0)
+fraud_bool in Base.csv and Variant IV.csv similar (T-Test 0.9999999999968511)
+fraud_bool in Base.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+fraud_bool in Base.csv and Variant V.csv similar (KS Test 1.0)
+fraud_bool in Base.csv and Variant V.csv similar (T-Test 0.9999999999968511)
+fraud_bool in Base.csv and Variant V.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+fraud_bool in Variant I.csv and Variant II.csv similar (KS Test 1.0)
+fraud_bool in Variant I.csv and Variant II.csv similar (T-Test 1.0)
+fraud_bool in Variant I.csv and Variant II.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+fraud_bool in Variant I.csv and Variant III.csv similar (KS Test 1.0)
+fraud_bool in Variant I.csv and Variant III.csv similar (T-Test 0.9999999999968511)
+fraud_bool in Variant I.csv and Variant III.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+fraud_bool in Variant I.csv and Variant IV.csv similar (KS Test 1.0)
+fraud_bool in Variant I.csv and Variant IV.csv similar (T-Test 0.9999999999968511)
+fraud_bool in Variant I.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+fraud_bool in Variant I.csv and Variant V.csv similar (KS Test 1.0)
+fraud_bool in Variant I.csv and Variant V.csv similar (T-Test 0.9999999999968511)
+fraud_bool in Variant I.csv and Variant V.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+fraud_bool in Variant II.csv and Variant III.csv similar (KS Test 1.0)
+fraud_bool in Variant II.csv and Variant III.csv similar (T-Test 0.9999999999968511)
+fraud_bool in Variant II.csv and Variant III.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+fraud_bool in Variant II.csv and Variant IV.csv similar (KS Test 1.0)
+fraud_bool in Variant II.csv and Variant IV.csv similar (T-Test 0.9999999999968511)
+fraud_bool in Variant II.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+fraud_bool in Variant II.csv and Variant V.csv similar (KS Test 1.0)
+fraud_bool in Variant II.csv and Variant V.csv similar (T-Test 0.9999999999968511)
+fraud_bool in Variant II.csv and Variant V.csv similar (Mann-Whitney U Test 0.9551957673931278)
+
+
+
+
+
+
+fraud_bool in Variant III.csv and Variant IV.csv similar (KS Test 1.0)
+fraud_bool in Variant III.csv and Variant IV.csv similar (T-Test 1.0)
+fraud_bool in Variant III.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+fraud_bool in Variant III.csv and Variant V.csv similar (KS Test 1.0)
+fraud_bool in Variant III.csv and Variant V.csv similar (T-Test 1.0)
+fraud_bool in Variant III.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+fraud_bool in Variant IV.csv and Variant V.csv similar (KS Test 1.0)
+fraud_bool in Variant IV.csv and Variant V.csv similar (T-Test 1.0)
+fraud_bool in Variant IV.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+zip_count_4w in Base.csv and Variant I.csv similar (KS Test 1.0)
+zip_count_4w in Base.csv and Variant I.csv similar (T-Test 0.9999956148702949)
+zip_count_4w in Base.csv and Variant I.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+zip_count_4w in Base.csv and Variant II.csv similar (KS Test 1.0)
+zip_count_4w in Base.csv and Variant II.csv similar (T-Test 0.9999411162631716)
+zip_count_4w in Base.csv and Variant II.csv similar (Mann-Whitney U Test 0.9580602618255808)
+
+
+
+
+
+
+zip_count_4w in Base.csv and Variant III.csv similar (KS Test 1.0)
+zip_count_4w in Base.csv and Variant III.csv similar (T-Test 0.999828773828574)
+zip_count_4w in Base.csv and Variant III.csv similar (Mann-Whitney U Test 0.7925972289255464)
+
+
+
+
+
+
+zip_count_4w in Base.csv and Variant IV.csv similar (KS Test 1.0)
+zip_count_4w in Base.csv and Variant IV.csv similar (T-Test 0.9998286688295117)
+zip_count_4w in Base.csv and Variant IV.csv similar (Mann-Whitney U Test 0.7925972289255464)
+
+
+
+
+
+
+zip_count_4w in Base.csv and Variant V.csv similar (KS Test 1.0)
+zip_count_4w in Base.csv and Variant V.csv similar (T-Test 0.999929676942845)
+zip_count_4w in Base.csv and Variant V.csv similar (Mann-Whitney U Test 0.8746430148353899)
+
+
+
+
+
+
+zip_count_4w in Variant I.csv and Variant II.csv similar (KS Test 1.0)
+zip_count_4w in Variant I.csv and Variant II.csv similar (T-Test 0.9999455013898169)
+zip_count_4w in Variant I.csv and Variant II.csv similar (Mann-Whitney U Test 0.9580602618255808)
+
+
+
+
+
+
+zip_count_4w in Variant I.csv and Variant III.csv similar (KS Test 1.0)
+zip_count_4w in Variant I.csv and Variant III.csv similar (T-Test 0.9998331589479701)
+zip_count_4w in Variant I.csv and Variant III.csv similar (Mann-Whitney U Test 0.7925972289255464)
+
+
+
+
+
+
+zip_count_4w in Variant I.csv and Variant IV.csv similar (KS Test 1.0)
+zip_count_4w in Variant I.csv and Variant IV.csv similar (T-Test 0.9998330539489009)
+zip_count_4w in Variant I.csv and Variant IV.csv similar (Mann-Whitney U Test 0.7925972289255464)
+
+
+
+
+
+
+zip_count_4w in Variant I.csv and Variant V.csv similar (KS Test 1.0)
+zip_count_4w in Variant I.csv and Variant V.csv similar (T-Test 0.9999340620663519)
+zip_count_4w in Variant I.csv and Variant V.csv similar (Mann-Whitney U Test 0.8746430148353899)
+
+
+
+
+
+
+zip_count_4w in Variant II.csv and Variant III.csv similar (KS Test 1.0)
+zip_count_4w in Variant II.csv and Variant III.csv similar (T-Test 0.9998876575464446)
+zip_count_4w in Variant II.csv and Variant III.csv similar (Mann-Whitney U Test 0.8332720830457769)
+
+
+
+
+
+
+zip_count_4w in Variant II.csv and Variant IV.csv similar (KS Test 1.0)
+zip_count_4w in Variant II.csv and Variant IV.csv similar (T-Test 0.9998875525473631)
+zip_count_4w in Variant II.csv and Variant IV.csv similar (Mann-Whitney U Test 0.8332720830457769)
+
+
+
+
+
+
+zip_count_4w in Variant II.csv and Variant V.csv similar (KS Test 1.0)
+zip_count_4w in Variant II.csv and Variant V.csv similar (T-Test 0.9999885606455128)
+zip_count_4w in Variant II.csv and Variant V.csv similar (Mann-Whitney U Test 0.8746430148353899)
+
+
+
+
+
+
+zip_count_4w in Variant III.csv and Variant IV.csv similar (KS Test 1.0)
+zip_count_4w in Variant III.csv and Variant IV.csv similar (T-Test 0.9999998950009157)
+zip_count_4w in Variant III.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9579361106814205)
+
+
+
+
+
+
+zip_count_4w in Variant III.csv and Variant V.csv similar (KS Test 1.0)
+zip_count_4w in Variant III.csv and Variant V.csv similar (T-Test 0.99989909696242)
+zip_count_4w in Variant III.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+zip_count_4w in Variant IV.csv and Variant V.csv similar (KS Test 1.0)
+zip_count_4w in Variant IV.csv and Variant V.csv similar (T-Test 0.9998989919633956)
+zip_count_4w in Variant IV.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+intended_balcon_amount in Base.csv and Variant I.csv similar (KS Test 1.0)
+intended_balcon_amount in Base.csv and Variant I.csv similar (T-Test 0.9999993256027824)
+intended_balcon_amount in Base.csv and Variant I.csv similar (Mann-Whitney U Test 0.9162977979978499)
+
+
+
+
+
+
+intended_balcon_amount in Base.csv and Variant II.csv similar (KS Test 1.0)
+intended_balcon_amount in Base.csv and Variant II.csv similar (T-Test 0.9999972001107129)
+intended_balcon_amount in Base.csv and Variant II.csv similar (Mann-Whitney U Test 0.9162977979978499)
+
+
+
+
+
+
+intended_balcon_amount in Base.csv and Variant III.csv similar (KS Test 1.0)
+intended_balcon_amount in Base.csv and Variant III.csv similar (T-Test 0.9999970344690466)
+intended_balcon_amount in Base.csv and Variant III.csv similar (Mann-Whitney U Test 0.9162977979978499)
+
+
+
+
+
+
+intended_balcon_amount in Base.csv and Variant IV.csv similar (KS Test 1.0)
+intended_balcon_amount in Base.csv and Variant IV.csv similar (T-Test 0.9999970335612849)
+intended_balcon_amount in Base.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9162977979978499)
+
+
+
+
+
+
+intended_balcon_amount in Base.csv and Variant V.csv similar (KS Test 1.0)
+intended_balcon_amount in Base.csv and Variant V.csv similar (T-Test 0.9999973011813088)
+intended_balcon_amount in Base.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+intended_balcon_amount in Variant I.csv and Variant II.csv similar (KS Test 1.0)
+intended_balcon_amount in Variant I.csv and Variant II.csv similar (T-Test 0.9999965257134952)
+intended_balcon_amount in Variant I.csv and Variant II.csv similar (Mann-Whitney U Test 0.9580602618255808)
+
+
+
+
+
+
+intended_balcon_amount in Variant I.csv and Variant III.csv similar (KS Test 1.0)
+intended_balcon_amount in Variant I.csv and Variant III.csv similar (T-Test 0.9999963600718289)
+intended_balcon_amount in Variant I.csv and Variant III.csv similar (Mann-Whitney U Test 0.9580602618255808)
+
+
+
+
+
+
+intended_balcon_amount in Variant I.csv and Variant IV.csv similar (KS Test 1.0)
+intended_balcon_amount in Variant I.csv and Variant IV.csv similar (T-Test 0.9999963591640673)
+intended_balcon_amount in Variant I.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9580602618255808)
+
+
+
+
+
+
+intended_balcon_amount in Variant I.csv and Variant V.csv similar (KS Test 1.0)
+intended_balcon_amount in Variant I.csv and Variant V.csv similar (T-Test 0.9999966267840912)
+intended_balcon_amount in Variant I.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+intended_balcon_amount in Variant II.csv and Variant III.csv similar (KS Test 1.0)
+intended_balcon_amount in Variant II.csv and Variant III.csv similar (T-Test 0.9999998343583338)
+intended_balcon_amount in Variant II.csv and Variant III.csv similar (Mann-Whitney U Test 0.8332720830457769)
+
+
+
+
+
+
+intended_balcon_amount in Variant II.csv and Variant IV.csv similar (KS Test 1.0)
+intended_balcon_amount in Variant II.csv and Variant IV.csv similar (T-Test 0.999999833450572)
+intended_balcon_amount in Variant II.csv and Variant IV.csv similar (Mann-Whitney U Test 0.8332720830457769)
+
+
+
+
+
+
+intended_balcon_amount in Variant II.csv and Variant V.csv similar (KS Test 1.0)
+intended_balcon_amount in Variant II.csv and Variant V.csv similar (T-Test 0.9999998989294041)
+intended_balcon_amount in Variant II.csv and Variant V.csv similar (Mann-Whitney U Test 0.9162977979978499)
+
+
+
+
+
+
+intended_balcon_amount in Variant III.csv and Variant IV.csv similar (KS Test 1.0)
+intended_balcon_amount in Variant III.csv and Variant IV.csv similar (T-Test 0.9999999990922384)
+intended_balcon_amount in Variant III.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+intended_balcon_amount in Variant III.csv and Variant V.csv similar (KS Test 1.0)
+intended_balcon_amount in Variant III.csv and Variant V.csv similar (T-Test 0.999999733287738)
+intended_balcon_amount in Variant III.csv and Variant V.csv similar (Mann-Whitney U Test 0.7525377274994569)
+
+
+
+
+
+
+intended_balcon_amount in Variant IV.csv and Variant V.csv similar (KS Test 1.0)
+intended_balcon_amount in Variant IV.csv and Variant V.csv similar (T-Test 0.9999997323799762)
+intended_balcon_amount in Variant IV.csv and Variant V.csv similar (Mann-Whitney U Test 0.7525377274994569)
+
+
+
+
+
+
+device_fraud_count in Base.csv and Variant I.csv similar (KS Test 1.0)
+device_fraud_count in Base.csv and Variant I.csv similar (T-Test 1.0)
+device_fraud_count in Base.csv and Variant I.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+device_fraud_count in Base.csv and Variant II.csv similar (KS Test 1.0)
+device_fraud_count in Base.csv and Variant II.csv similar (T-Test 1.0)
+device_fraud_count in Base.csv and Variant II.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+device_fraud_count in Base.csv and Variant III.csv similar (KS Test 1.0)
+device_fraud_count in Base.csv and Variant III.csv similar (T-Test 1.0)
+device_fraud_count in Base.csv and Variant III.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+device_fraud_count in Base.csv and Variant IV.csv similar (KS Test 1.0)
+device_fraud_count in Base.csv and Variant IV.csv similar (T-Test 1.0)
+device_fraud_count in Base.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+device_fraud_count in Base.csv and Variant V.csv similar (KS Test 1.0)
+device_fraud_count in Base.csv and Variant V.csv similar (T-Test 1.0)
+device_fraud_count in Base.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+device_fraud_count in Variant I.csv and Variant II.csv similar (KS Test 1.0)
+device_fraud_count in Variant I.csv and Variant II.csv similar (T-Test 1.0)
+device_fraud_count in Variant I.csv and Variant II.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+device_fraud_count in Variant I.csv and Variant III.csv similar (KS Test 1.0)
+device_fraud_count in Variant I.csv and Variant III.csv similar (T-Test 1.0)
+device_fraud_count in Variant I.csv and Variant III.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+device_fraud_count in Variant I.csv and Variant IV.csv similar (KS Test 1.0)
+device_fraud_count in Variant I.csv and Variant IV.csv similar (T-Test 1.0)
+device_fraud_count in Variant I.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+device_fraud_count in Variant I.csv and Variant V.csv similar (KS Test 1.0)
+device_fraud_count in Variant I.csv and Variant V.csv similar (T-Test 1.0)
+device_fraud_count in Variant I.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+device_fraud_count in Variant II.csv and Variant III.csv similar (KS Test 1.0)
+device_fraud_count in Variant II.csv and Variant III.csv similar (T-Test 1.0)
+device_fraud_count in Variant II.csv and Variant III.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+device_fraud_count in Variant II.csv and Variant IV.csv similar (KS Test 1.0)
+device_fraud_count in Variant II.csv and Variant IV.csv similar (T-Test 1.0)
+device_fraud_count in Variant II.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+device_fraud_count in Variant II.csv and Variant V.csv similar (KS Test 1.0)
+device_fraud_count in Variant II.csv and Variant V.csv similar (T-Test 1.0)
+device_fraud_count in Variant II.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+device_fraud_count in Variant III.csv and Variant IV.csv similar (KS Test 1.0)
+device_fraud_count in Variant III.csv and Variant IV.csv similar (T-Test 1.0)
+device_fraud_count in Variant III.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+device_fraud_count in Variant III.csv and Variant V.csv similar (KS Test 1.0)
+device_fraud_count in Variant III.csv and Variant V.csv similar (T-Test 1.0)
+device_fraud_count in Variant III.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+device_fraud_count in Variant IV.csv and Variant V.csv similar (KS Test 1.0)
+device_fraud_count in Variant IV.csv and Variant V.csv similar (T-Test 1.0)
+device_fraud_count in Variant IV.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+month in Base.csv and Variant I.csv similar (KS Test 1.0)
+month in Base.csv and Variant I.csv similar (T-Test 0.9999999999946014)
+month in Base.csv and Variant I.csv similar (Mann-Whitney U Test 0.9579361106814205)
+
+
+
+
+
+
+month in Base.csv and Variant II.csv similar (KS Test 1.0)
+month in Base.csv and Variant II.csv similar (T-Test 0.9999999999978881)
+month in Base.csv and Variant II.csv similar (Mann-Whitney U Test 0.9579361106814205)
+
+
+
+
+
+
+month in Base.csv and Variant III.csv similar (KS Test 0.98010878010878)
+month in Base.csv and Variant III.csv similar (T-Test 0.9999987381830377)
+month in Base.csv and Variant III.csv similar (Mann-Whitney U Test 0.8744592481051268)
+
+
+
+
+
+
+month in Base.csv and Variant IV.csv similar (KS Test 0.98010878010878)
+month in Base.csv and Variant IV.csv similar (T-Test 0.999998738182787)
+month in Base.csv and Variant IV.csv similar (Mann-Whitney U Test 0.8744592481051268)
+
+
+
+
+
+
+month in Base.csv and Variant V.csv similar (KS Test 0.98010878010878)
+month in Base.csv and Variant V.csv similar (T-Test 0.9999987381838014)
+month in Base.csv and Variant V.csv similar (Mann-Whitney U Test 0.8744592481051268)
+
+
+
+
+
+
+month in Variant I.csv and Variant II.csv similar (KS Test 1.0)
+month in Variant I.csv and Variant II.csv similar (T-Test 0.9999999999967132)
+month in Variant I.csv and Variant II.csv similar (Mann-Whitney U Test 0.9579361106814205)
+
+
+
+
+
+
+month in Variant I.csv and Variant III.csv similar (KS Test 0.98010878010878)
+month in Variant I.csv and Variant III.csv similar (T-Test 0.9999987381776392)
+month in Variant I.csv and Variant III.csv similar (Mann-Whitney U Test 0.8744592481051268)
+
+
+
+
+
+
+month in Variant I.csv and Variant IV.csv similar (KS Test 0.98010878010878)
+month in Variant I.csv and Variant IV.csv similar (T-Test 0.9999987381773883)
+month in Variant I.csv and Variant IV.csv similar (Mann-Whitney U Test 0.8744592481051268)
+
+
+
+
+
+
+month in Variant I.csv and Variant V.csv similar (KS Test 0.98010878010878)
+month in Variant I.csv and Variant V.csv similar (T-Test 0.9999987381784028)
+month in Variant I.csv and Variant V.csv similar (Mann-Whitney U Test 0.8744592481051268)
+
+
+
+
+
+
+month in Variant II.csv and Variant III.csv similar (KS Test 0.98010878010878)
+month in Variant II.csv and Variant III.csv similar (T-Test 0.999998738180926)
+month in Variant II.csv and Variant III.csv similar (Mann-Whitney U Test 0.8744592481051268)
+
+
+
+
+
+
+month in Variant II.csv and Variant IV.csv similar (KS Test 0.98010878010878)
+month in Variant II.csv and Variant IV.csv similar (T-Test 0.9999987381806752)
+month in Variant II.csv and Variant IV.csv similar (Mann-Whitney U Test 0.8744592481051268)
+
+
+
+
+
+
+month in Variant II.csv and Variant V.csv similar (KS Test 0.98010878010878)
+month in Variant II.csv and Variant V.csv similar (T-Test 0.9999987381816895)
+month in Variant II.csv and Variant V.csv similar (Mann-Whitney U Test 0.8744592481051268)
+
+
+
+
+
+
+month in Variant III.csv and Variant IV.csv similar (KS Test 1.0)
+month in Variant III.csv and Variant IV.csv similar (T-Test 0.9999999999997491)
+month in Variant III.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+month in Variant III.csv and Variant V.csv similar (KS Test 1.0)
+month in Variant III.csv and Variant V.csv similar (T-Test 0.9999999999992365)
+month in Variant III.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+month in Variant IV.csv and Variant V.csv similar (KS Test 1.0)
+month in Variant IV.csv and Variant V.csv similar (T-Test 0.9999999999989857)
+month in Variant IV.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+credit_risk_score in Base.csv and Variant I.csv similar (KS Test 1.0)
+credit_risk_score in Base.csv and Variant I.csv similar (T-Test 0.9999843779223501)
+credit_risk_score in Base.csv and Variant I.csv similar (Mann-Whitney U Test 0.7525377274994569)
+
+
+
+
+
+
+credit_risk_score in Base.csv and Variant II.csv similar (KS Test 1.0)
+credit_risk_score in Base.csv and Variant II.csv similar (T-Test 0.9999966820538526)
+credit_risk_score in Base.csv and Variant II.csv similar (Mann-Whitney U Test 0.9162977979978499)
+
+
+
+
+
+
+credit_risk_score in Base.csv and Variant III.csv similar (KS Test 1.0)
+credit_risk_score in Base.csv and Variant III.csv similar (T-Test 0.9999850070391133)
+credit_risk_score in Base.csv and Variant III.csv similar (Mann-Whitney U Test 0.9162977979978499)
+
+
+
+
+
+
+credit_risk_score in Base.csv and Variant IV.csv similar (KS Test 1.0)
+credit_risk_score in Base.csv and Variant IV.csv similar (T-Test 0.9999849944974741)
+credit_risk_score in Base.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9162977979978499)
+
+
+
+
+
+
+credit_risk_score in Base.csv and Variant V.csv similar (KS Test 1.0)
+credit_risk_score in Base.csv and Variant V.csv similar (T-Test 0.9999850052701347)
+credit_risk_score in Base.csv and Variant V.csv similar (Mann-Whitney U Test 0.9162977979978499)
+
+
+
+
+
+
+credit_risk_score in Variant I.csv and Variant II.csv similar (KS Test 1.0)
+credit_risk_score in Variant I.csv and Variant II.csv similar (T-Test 0.9999810599762725)
+credit_risk_score in Variant I.csv and Variant II.csv similar (Mann-Whitney U Test 0.8332720830457769)
+
+
+
+
+
+
+credit_risk_score in Variant I.csv and Variant III.csv similar (KS Test 0.98010878010878)
+credit_risk_score in Variant I.csv and Variant III.csv similar (T-Test 0.9999693849615405)
+credit_risk_score in Variant I.csv and Variant III.csv similar (Mann-Whitney U Test 0.7127872877960982)
+
+
+
+
+
+
+credit_risk_score in Variant I.csv and Variant IV.csv similar (KS Test 0.98010878010878)
+credit_risk_score in Variant I.csv and Variant IV.csv similar (T-Test 0.9999693724199014)
+credit_risk_score in Variant I.csv and Variant IV.csv similar (Mann-Whitney U Test 0.7127872877960982)
+
+
+
+
+
+
+credit_risk_score in Variant I.csv and Variant V.csv similar (KS Test 0.98010878010878)
+credit_risk_score in Variant I.csv and Variant V.csv similar (T-Test 0.9999693831925618)
+credit_risk_score in Variant I.csv and Variant V.csv similar (Mann-Whitney U Test 0.7127872877960982)
+
+
+
+
+
+
+credit_risk_score in Variant II.csv and Variant III.csv similar (KS Test 1.0)
+credit_risk_score in Variant II.csv and Variant III.csv similar (T-Test 0.9999883249853114)
+credit_risk_score in Variant II.csv and Variant III.csv similar (Mann-Whitney U Test 0.8746430148353899)
+
+
+
+
+
+
+credit_risk_score in Variant II.csv and Variant IV.csv similar (KS Test 1.0)
+credit_risk_score in Variant II.csv and Variant IV.csv similar (T-Test 0.9999883124436721)
+credit_risk_score in Variant II.csv and Variant IV.csv similar (Mann-Whitney U Test 0.8746430148353899)
+
+
+
+
+
+
+credit_risk_score in Variant II.csv and Variant V.csv similar (KS Test 1.0)
+credit_risk_score in Variant II.csv and Variant V.csv similar (T-Test 0.9999883232163327)
+credit_risk_score in Variant II.csv and Variant V.csv similar (Mann-Whitney U Test 0.8746430148353899)
+
+
+
+
+
+
+credit_risk_score in Variant III.csv and Variant IV.csv similar (KS Test 1.0)
+credit_risk_score in Variant III.csv and Variant IV.csv similar (T-Test 0.9999999874583608)
+credit_risk_score in Variant III.csv and Variant IV.csv similar (Mann-Whitney U Test 0.9579361106814205)
+
+
+
+
+
+
+credit_risk_score in Variant III.csv and Variant V.csv similar (KS Test 1.0)
+credit_risk_score in Variant III.csv and Variant V.csv similar (T-Test 0.9999999982310213)
+credit_risk_score in Variant III.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+credit_risk_score in Variant IV.csv and Variant V.csv similar (KS Test 1.0)
+credit_risk_score in Variant IV.csv and Variant V.csv similar (T-Test 0.9999999892273395)
+credit_risk_score in Variant IV.csv and Variant V.csv similar (Mann-Whitney U Test 0.9579361106814205)
+
+
+
+
+
+
+session_length_in_minutes in Base.csv and Variant I.csv similar (KS Test 1.0)
+session_length_in_minutes in Base.csv and Variant I.csv similar (T-Test 0.9999996421119799)
+session_length_in_minutes in Base.csv and Variant I.csv similar (Mann-Whitney U Test 0.7925972289255464)
+
+
+
+
+
+
+session_length_in_minutes in Base.csv and Variant II.csv similar (KS Test 1.0)
+session_length_in_minutes in Base.csv and Variant II.csv similar (T-Test 0.9999984322084927)
+session_length_in_minutes in Base.csv and Variant II.csv similar (Mann-Whitney U Test 0.7925972289255464)
+
+
+
+
+
+
+session_length_in_minutes in Base.csv and Variant III.csv similar (KS Test 1.0)
+session_length_in_minutes in Base.csv and Variant III.csv similar (T-Test 0.9999995475203955)
+session_length_in_minutes in Base.csv and Variant III.csv similar (Mann-Whitney U Test 0.8746430148353899)
+
+
+
+
+
+
+session_length_in_minutes in Base.csv and Variant IV.csv similar (KS Test 1.0)
+session_length_in_minutes in Base.csv and Variant IV.csv similar (T-Test 0.9999986216463213)
+session_length_in_minutes in Base.csv and Variant IV.csv similar (Mann-Whitney U Test 0.7925972289255464)
+
+
+
+
+
+
+session_length_in_minutes in Base.csv and Variant V.csv similar (KS Test 1.0)
+session_length_in_minutes in Base.csv and Variant V.csv similar (T-Test 0.999999162984851)
+session_length_in_minutes in Base.csv and Variant V.csv similar (Mann-Whitney U Test 0.8746430148353899)
+
+
+
+
+
+
+session_length_in_minutes in Variant I.csv and Variant II.csv similar (KS Test 1.0)
+session_length_in_minutes in Variant I.csv and Variant II.csv similar (T-Test 0.9999980743204726)
+session_length_in_minutes in Variant I.csv and Variant II.csv similar (Mann-Whitney U Test 0.7925972289255464)
+
+
+
+
+
+
+session_length_in_minutes in Variant I.csv and Variant III.csv similar (KS Test 1.0)
+session_length_in_minutes in Variant I.csv and Variant III.csv similar (T-Test 0.9999991896323756)
+session_length_in_minutes in Variant I.csv and Variant III.csv similar (Mann-Whitney U Test 0.8332720830457769)
+
+
+
+
+
+
+session_length_in_minutes in Variant I.csv and Variant IV.csv similar (KS Test 1.0)
+session_length_in_minutes in Variant I.csv and Variant IV.csv similar (T-Test 0.9999982637583011)
+session_length_in_minutes in Variant I.csv and Variant IV.csv similar (Mann-Whitney U Test 0.7925972289255464)
+
+
+
+
+
+
+session_length_in_minutes in Variant I.csv and Variant V.csv similar (KS Test 1.0)
+session_length_in_minutes in Variant I.csv and Variant V.csv similar (T-Test 0.999999520872871)
+session_length_in_minutes in Variant I.csv and Variant V.csv similar (Mann-Whitney U Test 0.8746430148353899)
+
+
+
+
+
+
+session_length_in_minutes in Variant II.csv and Variant III.csv similar (KS Test 1.0)
+session_length_in_minutes in Variant II.csv and Variant III.csv similar (T-Test 0.999998884688097)
+session_length_in_minutes in Variant II.csv and Variant III.csv similar (Mann-Whitney U Test 0.7925972289255464)
+
+
+
+
+
+
+session_length_in_minutes in Variant II.csv and Variant IV.csv similar (KS Test 1.0)
+session_length_in_minutes in Variant II.csv and Variant IV.csv similar (T-Test 0.9999998105621715)
+session_length_in_minutes in Variant II.csv and Variant IV.csv similar (Mann-Whitney U Test 0.8332720830457769)
+
+
+
+
+
+
+session_length_in_minutes in Variant II.csv and Variant V.csv similar (KS Test 1.0)
+session_length_in_minutes in Variant II.csv and Variant V.csv similar (T-Test 0.9999975951933435)
+session_length_in_minutes in Variant II.csv and Variant V.csv similar (Mann-Whitney U Test 0.7925972289255464)
+
+
+
+
+
+
+session_length_in_minutes in Variant III.csv and Variant IV.csv similar (KS Test 1.0)
+session_length_in_minutes in Variant III.csv and Variant IV.csv similar (T-Test 0.9999990741259257)
+session_length_in_minutes in Variant III.csv and Variant IV.csv similar (Mann-Whitney U Test 0.8746430148353899)
+
+
+
+
+
+
+session_length_in_minutes in Variant III.csv and Variant V.csv similar (KS Test 1.0)
+session_length_in_minutes in Variant III.csv and Variant V.csv similar (T-Test 0.9999987105052466)
+session_length_in_minutes in Variant III.csv and Variant V.csv similar (Mann-Whitney U Test 0.9580602618255808)
+
+
+
+
+
+
+session_length_in_minutes in Variant IV.csv and Variant V.csv similar (KS Test 1.0)
+session_length_in_minutes in Variant IV.csv and Variant V.csv similar (T-Test 0.9999977846311721)
+session_length_in_minutes in Variant IV.csv and Variant V.csv similar (Mann-Whitney U Test 0.9580602618255808)
+
+
+
+
+
+
+customer_age in Base.csv and Variant I.csv similar (KS Test 1.0)
+customer_age in Base.csv and Variant I.csv similar (T-Test 0.9999984240375087)
+customer_age in Base.csv and Variant I.csv similar (Mann-Whitney U Test 0.9579361106814205)
+
+
+
+
+
+
+customer_age in Base.csv and Variant II.csv similar (KS Test 0.6601398601398599)
+customer_age in Base.csv and Variant II.csv similar (T-Test 0.9999726242227716)
+customer_age in Base.csv and Variant II.csv similar (Mann-Whitney U Test 0.5620826100354468)
+
+
+
+
+
+
+customer_age in Base.csv and Variant III.csv similar (KS Test 0.6601398601398599)
+customer_age in Base.csv and Variant III.csv similar (T-Test 0.9999726227298096)
+customer_age in Base.csv and Variant III.csv similar (Mann-Whitney U Test 0.5620826100354468)
+
+
+
+
+
+
+customer_age in Base.csv and Variant IV.csv similar (KS Test 0.6601398601398599)
+customer_age in Base.csv and Variant IV.csv similar (T-Test 0.99997261895437)
+customer_age in Base.csv and Variant IV.csv similar (Mann-Whitney U Test 0.5620826100354468)
+
+
+
+
+
+
+customer_age in Base.csv and Variant V.csv similar (KS Test 0.6601398601398599)
+customer_age in Base.csv and Variant V.csv similar (T-Test 0.999972628351866)
+customer_age in Base.csv and Variant V.csv similar (Mann-Whitney U Test 0.5620826100354468)
+
+
+
+
+
+
+customer_age in Variant I.csv and Variant II.csv similar (KS Test 0.6601398601398599)
+customer_age in Variant I.csv and Variant II.csv similar (T-Test 0.9999710482602817)
+customer_age in Variant I.csv and Variant II.csv similar (Mann-Whitney U Test 0.5620826100354468)
+
+
+
+
+
+
+customer_age in Variant I.csv and Variant III.csv similar (KS Test 0.6601398601398599)
+customer_age in Variant I.csv and Variant III.csv similar (T-Test 0.9999710467673198)
+customer_age in Variant I.csv and Variant III.csv similar (Mann-Whitney U Test 0.5620826100354468)
+
+
+
+
+
+
+customer_age in Variant I.csv and Variant IV.csv similar (KS Test 0.6601398601398599)
+customer_age in Variant I.csv and Variant IV.csv similar (T-Test 0.9999710429918802)
+customer_age in Variant I.csv and Variant IV.csv similar (Mann-Whitney U Test 0.5620826100354468)
+
+
+
+
+
+
+customer_age in Variant I.csv and Variant V.csv similar (KS Test 0.6601398601398599)
+customer_age in Variant I.csv and Variant V.csv similar (T-Test 0.9999710523893762)
+customer_age in Variant I.csv and Variant V.csv similar (Mann-Whitney U Test 0.5620826100354468)
+
+
+
+
+
+
+customer_age in Variant II.csv and Variant III.csv similar (KS Test 1.0)
+customer_age in Variant II.csv and Variant III.csv similar (T-Test 0.9999999985070381)
+customer_age in Variant II.csv and Variant III.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+customer_age in Variant II.csv and Variant IV.csv similar (KS Test 1.0)
+customer_age in Variant II.csv and Variant IV.csv similar (T-Test 0.9999999947315985)
+customer_age in Variant II.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+customer_age in Variant II.csv and Variant V.csv similar (KS Test 1.0)
+customer_age in Variant II.csv and Variant V.csv similar (T-Test 0.9999999958709055)
+customer_age in Variant II.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+customer_age in Variant III.csv and Variant IV.csv similar (KS Test 1.0)
+customer_age in Variant III.csv and Variant IV.csv similar (T-Test 0.9999999962245603)
+customer_age in Variant III.csv and Variant IV.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+customer_age in Variant III.csv and Variant V.csv similar (KS Test 1.0)
+customer_age in Variant III.csv and Variant V.csv similar (T-Test 0.9999999943779436)
+customer_age in Variant III.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
+
+
+
+
+customer_age in Variant IV.csv and Variant V.csv similar (KS Test 1.0)
+customer_age in Variant IV.csv and Variant V.csv similar (T-Test 0.9999999906025039)
+customer_age in Variant IV.csv and Variant V.csv similar (Mann-Whitney U Test 1.0)
+
+
