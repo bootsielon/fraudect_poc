@@ -6,6 +6,7 @@ import os
 # import hashlib  # currently unused
 from typing import Any
 from copy import deepcopy
+from datetime import datetime, timezone
 
 import pandas as pd
 
@@ -90,6 +91,8 @@ class MLPipeline:
                 self.config[step]["dataset_name"],
                 tuple(sorted(self.config[step]["feature_names"])),
                 self.config[step].get("inference_extra", {}),
+                # current time
+                datetime.now(timezone.utc).isoformat(),
             )
             self.global_hash = make_param_hash(key_tuple)
             self.global_train_hash = self.config[step]["train_hash"]
@@ -114,7 +117,7 @@ class MLPipeline:
         os.makedirs(self.train_dir, exist_ok=True)
         if first_time:  # write human timestamp (not hashed)
             with open(os.path.join(self.run_dir, "created_at.txt"), "w") as fh:
-                from datetime import datetime, timezone
+                # from datetime import datetime, timezone
                 fh.write(datetime.now(timezone.utc).isoformat())
 
         # ------------------------------------------------ bind steps ---

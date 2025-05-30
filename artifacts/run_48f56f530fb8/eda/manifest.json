@@ -1,0 +1,17 @@
+{
+  "step": "eda",
+  "param_hash": "48f56f530fb8",
+  "timestamp": "2025-05-30T17:49:43.659235+00:00",
+  "config": {
+    "target_col": "fraud_bool",
+    "n_rows": 500000,
+    "n_cols": 33
+  },
+  "output_dir": "artifacts\\run_48f56f530fb8\\eda",
+  "outputs": {
+    "raw_sample_csv": "raw_sample.csv",
+    "summary_stats_csv": "summary_stats.csv",
+    "column_metadata_json": "column_metadata.json",
+    "class_distribution_plot": "class_distribution.png"
+  }
+}
